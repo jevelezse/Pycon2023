@@ -1,1 +1,1 @@
-#Introducción a la bioinformática con Python.
+Introducción a la bioinformática con Python.
