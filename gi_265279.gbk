@@ -1,0 +1,32 @@
+LOCUS       S55056                    87 bp    mRNA    linear   PRI 08-MAY-1993
+DEFINITION  Ig C alpha {clone alpha N87} [human, cord blood mononuclear cells,
+            mRNA Partial, 87 nt].
+ACCESSION   S55056
+VERSION     S55056.1
+KEYWORDS    .
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 87)
+  AUTHORS   Mortari,F., Wang,J.Y. and Schroeder,H.W. Jr.
+  TITLE     Human cord blood antibody repertoire. Mixed population of VH gene
+            segments and CDR3 distribution in the expressed C alpha and C gamma
+            repertoires
+  JOURNAL   J. Immunol. 150 (4), 1348-1357 (1993)
+   PUBMED   8381834
+  REMARK    GenBank staff at the National Library of Medicine created this
+            entry [NCBI gibbsq 124786] from the original journal article.
+FEATURES             Location/Qualifiers
+     source          1..87
+                     /organism="Homo sapiens"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:9606"
+     gene            1..87
+                     /gene="Ig C alpha"
+ORIGIN      
+        1 tgtgcgaaag aacgtattgc gatttttgga gtggttatcc cgcactttga ctactggggc
+       61 cagggaaccc tggtcaccgt ctcctca
+//
+

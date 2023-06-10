@@ -1,0 +1,1373 @@
+<p><!--
+QBlastInfoBegin
+	Status=READY
+QBlastInfoEnd
+--><p>
+<PRE>
+BLASTN 2.14.1+
+Reference: Stephen F. Altschul, Thomas L. Madden, Alejandro
+A. Schaffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and
+David J. Lipman (1997), "Gapped BLAST and PSI-BLAST: a new
+generation of protein database search programs", Nucleic
+Acids Res. 25:3389-3402.
+
+
+RID: 897B5FC9016
+
+
+Database: Nucleotide collection (nt)
+           94,194,025 sequences; 1,181,222,551,416 total letters
+Query= 
+Length=229
+
+
+                                                                   Score     E     Max
+Sequences producing significant alignments:                       (Bits)  Value  Ident
+
+M22044.1 Synthetic insulin-like growth factor-1 (IGF-1) gene, ...  315     3e-81  93%         
+M10170.1 Synthetic somatomedin-C/insulin-like growth factor I,...  269     4e-67  88%         
+M26100.1 Synthetic insulin-like growth factor gene, complete cds   261     6e-65  87%         
+J03741.1 Synthetic human insulin-like growth factor I (IGF-I) ...  260     2e-64  87%         
+M16249.1 Synthetic human insulin-like growth factor (IGF-I) ge...  255     3e-63  87%         
+J03739.1 Synthetic human insulin-like growth factor I (IGF-I) ...  254     9e-63  86%         
+J03738.1 Synthetic human insulin-like growth factor I (IGF-I) ...  246     1e-60  86%         
+J03740.1 Human insulin-like growth factor I (IGF-I) gene, E-ch...  237     7e-58  85%         
+X05113.1 Synthetic gene for recombinant somatomedin C              230     1e-55  84%         
+D10367.1 Synthetic construct plasmid pCE-SMtrp genes for acidi...  229     4e-55  84%         
+MK166020.1 Synthetic construct DsbA/IGF1 fusion protein gene, ...  164     1e-35  78%         
+D43957.1 Suncus murinus adult liver mRNA for insulin-like grow...  152     2e-32  76%         
+XM_012801281.2 PREDICTED: Otolemur garnettii insulin like grow...  150     3e-31  76%         
+XM_003783298.2 PREDICTED: Otolemur garnettii insulin like grow...  150     3e-31  76%         
+XM_049783184.1 PREDICTED: Suncus etruscus insulin like growth ...  143     1e-29  75%         
+XM_049783183.1 PREDICTED: Suncus etruscus insulin like growth ...  143     1e-29  75%         
+XM_032844339.1 PREDICTED: Lontra canadensis insulin like growt...  134     6e-27  75%         
+XM_032844338.1 PREDICTED: Lontra canadensis insulin like growt...  134     6e-27  75%         
+XM_032844335.1 PREDICTED: Lontra canadensis insulin like growt...  134     6e-27  75%         
+XM_032844334.1 PREDICTED: Lontra canadensis insulin like growt...  134     6e-27  75%         
+XM_032844333.1 PREDICTED: Lontra canadensis insulin like growt...  134     6e-27  75%         
+XM_046013468.1 PREDICTED: Meles meles insulin like growth fact...  134     6e-27  74%         
+XM_046013467.1 PREDICTED: Meles meles insulin like growth fact...  134     6e-27  74%         
+XM_046013466.1 PREDICTED: Meles meles insulin like growth fact...  134     6e-27  74%         
+XM_008062221.2 PREDICTED: Carlito syrichta insulin like growth...  132     8e-26  74%         
+XM_021714565.1 PREDICTED: Carlito syrichta insulin like growth...  132     8e-26  74%         
+XM_021714564.1 PREDICTED: Carlito syrichta insulin like growth...  132     8e-26  74%         
+XM_008062220.2 PREDICTED: Carlito syrichta insulin like growth...  132     8e-26  74%         
+XM_008062222.1 PREDICTED: Carlito syrichta insulin like growth...  132     8e-26  74%         
+XM_033117217.1 PREDICTED: Rhinolophus ferrumequinum insulin li...  130     3e-25  74%         
+XM_033117216.1 PREDICTED: Rhinolophus ferrumequinum insulin li...  130     3e-25  74%         
+XM_033117215.1 PREDICTED: Rhinolophus ferrumequinum insulin li...  130     3e-25  74%         
+XM_033117214.1 PREDICTED: Rhinolophus ferrumequinum insulin li...  130     3e-25  74%         
+XM_032346584.1 PREDICTED: Mustela erminea insulin like growth ...  130     3e-25  74%         
+XM_032346583.1 PREDICTED: Mustela erminea insulin like growth ...  130     3e-25  74%         
+XM_032346582.1 PREDICTED: Mustela erminea insulin like growth ...  130     3e-25  74%         
+XM_032346581.1 PREDICTED: Mustela erminea insulin like growth ...  130     3e-25  74%         
+XM_032346580.1 PREDICTED: Mustela erminea insulin like growth ...  130     3e-25  74%         
+XM_023716928.1 PREDICTED: Octodon degus insulin like growth fa...  130     3e-25  74%         
+XM_023716923.1 PREDICTED: Octodon degus insulin like growth fa...  130     3e-25  74%         
+XM_023716921.1 PREDICTED: Octodon degus insulin like growth fa...  130     3e-25  74%         
+XM_047741234.1 PREDICTED: Lutra lutra insulin like growth fact...  130     3e-25  74%         
+XM_047741233.1 PREDICTED: Lutra lutra insulin like growth fact...  130     3e-25  74%         
+XM_047741231.1 PREDICTED: Lutra lutra insulin like growth fact...  130     3e-25  74%         
+XM_047741230.1 PREDICTED: Lutra lutra insulin like growth fact...  130     3e-25  74%         
+XM_047741229.1 PREDICTED: Lutra lutra insulin like growth fact...  130     3e-25  74%         
+XM_047741228.1 PREDICTED: Lutra lutra insulin like growth fact...  130     3e-25  74%         
+XM_004742995.3 PREDICTED: Mustela putorius furo insulin like g...  130     3e-25  74%         
+XM_045084780.1 PREDICTED: Mustela putorius furo insulin like g...  130     3e-25  74%         
+XM_045084779.1 PREDICTED: Mustela putorius furo insulin like g...  130     3e-25  74%         
+
+ALIGNMENTS
+>M22044.1 Synthetic insulin-like growth factor-1 (IGF-1) gene, 3' end of 
+cds
+Length=213
+
+ Score = 315 bits (349),  Expect = 3e-81
+ Identities = 197/212 (93%), Gaps = 0/212 (0%)
+ Strand=Plus/Plus
+
+Query  11   GGTCCCGAAACTCTGTGCGGTGCTGAACTGGTTGACGCTCTGCAGTTTGTTTGCGGTGAC  70
+            ||||| ||||||||||||||||||||||||||||||||||||||||| ||||||||||||
+Sbjct  1    GGTCCGGAAACTCTGTGCGGTGCTGAACTGGTTGACGCTCTGCAGTTCGTTTGCGGTGAC  60
+
+Query  71   CGTGGTTTTTATTTTAACAAACCCACTGGTTATGGTTCTTCTTCTCGTCGTGCTCCCCAG  130
+            |||||||| || || |||||||| |||||||| ||||||||||||||||||||| | |||
+Sbjct  61   CGTGGTTTCTACTTCAACAAACCGACTGGTTACGGTTCTTCTTCTCGTCGTGCTGCGCAG  120
+
+Query  131  ACTGGTATTGTTGACGAATGCTGCTTTCGTTCTTGCGACCTGCGTCGTCTGGAAATGTAT  190
+            || ||||| ||||||||||||||||| |||||||||||||||||||||||||||||||| 
+Sbjct  121  ACCGGTATCGTTGACGAATGCTGCTTCCGTTCTTGCGACCTGCGTCGTCTGGAAATGTAC  180
+
+Query  191  TGCGCTCCCCTGAAACCCGCTAAATCTGCTTA  222
+            |||||||| |||||||| ||||||||||||||
+Sbjct  181  TGCGCTCCGCTGAAACCGGCTAAATCTGCTTA  212
+
+
+>M10170.1 Synthetic somatomedin-C/insulin-like growth factor I, complete 
+cds
+Length=226
+
+ Score = 269 bits (297),  Expect = 4e-67
+ Identities = 189/216 (88%), Gaps = 0/216 (0%)
+ Strand=Plus/Plus
+
+Query  11   GGTCCCGAAACTCTGTGCGGTGCTGAACTGGTTGACGCTCTGCAGTTTGTTTGCGGTGAC  70
+            ||||| ||||| |||||||| ||||||||||||||||||||||||||||| ||||| |||
+Sbjct  11   GGTCCGGAAACACTGTGCGGCGCTGAACTGGTTGACGCTCTGCAGTTTGTATGCGGCGAC  70
+
+Query  71   CGTGGTTTTTATTTTAACAAACCCACTGGTTATGGTTCTTCTTCTCGTCGTGCTCCCCAG  130
+            |||||||| ||||||||||| || ||||| || ||||| ||||| || |||||||| |||
+Sbjct  71   CGTGGTTTCTATTTTAACAAGCCGACTGGCTACGGTTCCTCTTCCCGCCGTGCTCCACAG  130
+
+Query  131  ACTGGTATTGTTGACGAATGCTGCTTTCGTTCTTGCGACCTGCGTCGTCTGGAAATGTAT  190
+            |||||||| ||||| |||||||| |||||||||||||| ||||| ||||||||||  |||
+Sbjct  131  ACTGGTATCGTTGATGAATGCTGTTTTCGTTCTTGCGATCTGCGCCGTCTGGAAACCTAT  190
+
+Query  191  TGCGCTCCCCTGAAACCCGCTAAATCTGCTTAGAAG  226
+            || ||||| ||||||||||| || || |||||| ||
+Sbjct  191  TGTGCTCCTCTGAAACCCGCAAAGTCCGCTTAGTAG  226
+
+
+>M26100.1 Synthetic insulin-like growth factor gene, complete cds
+Length=232
+
+ Score = 261 bits (289),  Expect = 6e-65
+ Identities = 185/212 (87%), Gaps = 0/212 (0%)
+ Strand=Plus/Plus
+
+Query  11   GGTCCCGAAACTCTGTGCGGTGCTGAACTGGTTGACGCTCTGCAGTTTGTTTGCGGTGAC  70
+            ||||| ||||| |||||||||||||||||||||||||||||||| || |||||||| |||
+Sbjct  12   GGTCCGGAAACCCTGTGCGGTGCTGAACTGGTTGACGCTCTGCAATTCGTTTGCGGCGAC  71
+
+Query  71   CGTGGTTTTTATTTTAACAAACCCACTGGTTATGGTTCTTCTTCTCGTCGTGCTCCCCAG  130
+            ||||| || || || |||||||| || || || || || ||||| ||||||||||| |||
+Sbjct  72   CGTGGCTTCTACTTCAACAAACCGACCGGCTACGGCTCCTCTTCCCGTCGTGCTCCGCAG  131
+
+Query  131  ACTGGTATTGTTGACGAATGCTGCTTTCGTTCTTGCGACCTGCGTCGTCTGGAAATGTAT  190
+            || || || ||||||||||||||||| || || |||||||||||||||||||||||||| 
+Sbjct  132  ACCGGCATCGTTGACGAATGCTGCTTCCGCTCCTGCGACCTGCGTCGTCTGGAAATGTAC  191
+
+Query  191  TGCGCTCCCCTGAAACCCGCTAAATCTGCTTA  222
+            ||||||||||||||||| || ||||| |||||
+Sbjct  192  TGCGCTCCCCTGAAACCAGCAAAATCCGCTTA  223
+
+
+>J03741.1 Synthetic human insulin-like growth factor I (IGF-I) gene, partial 
+cds
+Length=216
+
+ Score = 260 bits (287),  Expect = 2e-64
+ Identities = 184/211 (87%), Gaps = 0/211 (0%)
+ Strand=Plus/Plus
+
+Query  11   GGTCCCGAAACTCTGTGCGGTGCTGAACTGGTTGACGCTCTGCAGTTTGTTTGCGGTGAC  70
+            ||||| |||||| |||| |||||||| || ||||||||||||||||| ||||||||||||
+Sbjct  1    GGTCCGGAAACTTTGTGTGGTGCTGAGCTCGTTGACGCTCTGCAGTTCGTTTGCGGTGAC  60
+
+Query  71   CGTGGTTTTTATTTTAACAAACCCACTGGTTATGGTTCTTCTTCTCGTCGTGCTCCCCAG  130
+            || ||||| || || |||||||| |||||||| |||||||||||| | |||||||| |||
+Sbjct  61   CGCGGTTTCTACTTCAACAAACCGACTGGTTACGGTTCTTCTTCTAGACGTGCTCCGCAG  120
+
+Query  131  ACTGGTATTGTTGACGAATGCTGCTTTCGTTCTTGCGACCTGCGTCGTCTGGAAATGTAT  190
+            |||||||| ||||| |||||||||||  | ||||| |||||||||||||| || ||||| 
+Sbjct  121  ACTGGTATCGTTGATGAATGCTGCTTCAGATCTTGTGACCTGCGTCGTCTCGAGATGTAC  180
+
+Query  191  TGCGCTCCCCTGAAACCCGCTAAATCTGCTT  221
+            ||||| || |||||||| |||||||||||||
+Sbjct  181  TGCGCACCGCTGAAACCGGCTAAATCTGCTT  211
+
+
+>M16249.1 Synthetic human insulin-like growth factor (IGF-I) gene, partial 
+cds
+Length=221
+
+ Score = 255 bits (282),  Expect = 3e-63
+ Identities = 183/211 (87%), Gaps = 0/211 (0%)
+ Strand=Plus/Plus
+
+Query  11   GGTCCCGAAACTCTGTGCGGTGCTGAACTGGTTGACGCTCTGCAGTTTGTTTGCGGTGAC  70
+            ||||| ||||||||||| || || || || ||||||||||||||||| ||||||||||||
+Sbjct  5    GGTCCGGAAACTCTGTGTGGCGCCGAGCTCGTTGACGCTCTGCAGTTCGTTTGCGGTGAC  64
+
+Query  71   CGTGGTTTTTATTTTAACAAACCCACTGGTTATGGTTCTTCTTCTCGTCGTGCTCCCCAG  130
+            || ||||| || || |||||||| |||||||| |||||||||||| | |||||||| |||
+Sbjct  65   CGCGGTTTCTACTTCAACAAACCGACTGGTTACGGTTCTTCTTCTAGACGTGCTCCGCAG  124
+
+Query  131  ACTGGTATTGTTGACGAATGCTGCTTTCGTTCTTGCGACCTGCGTCGTCTGGAAATGTAT  190
+            |||||||| ||||| |||||||||||  | ||||| |||||||||||||| || ||||| 
+Sbjct  125  ACTGGTATCGTTGATGAATGCTGCTTCAGATCTTGTGACCTGCGTCGTCTCGAGATGTAC  184
+
+Query  191  TGCGCTCCCCTGAAACCCGCTAAATCTGCTT  221
+            ||||| || |||||||| |||||||||||||
+Sbjct  185  TGCGCACCGCTGAAACCGGCTAAATCTGCTT  215
+
+
+>J03739.1 Synthetic human insulin-like growth factor I (IGF-I) gene, D-chain 
+mutant, partial cds
+Length=216
+
+ Score = 254 bits (281),  Expect = 9e-63
+ Identities = 184/213 (86%), Gaps = 0/213 (0%)
+ Strand=Plus/Plus
+
+Query  11   GGTCCCGAAACTCTGTGCGGTGCTGAACTGGTTGACGCTCTGCAGTTTGTTTGCGGTGAC  70
+            |||||  || || |||| |||||||| || ||||||||||||||||| ||||||||||||
+Sbjct  1    GGTCCGCAAGCTTTGTGTGGTGCTGAGCTCGTTGACGCTCTGCAGTTCGTTTGCGGTGAC  60
+
+Query  71   CGTGGTTTTTATTTTAACAAACCCACTGGTTATGGTTCTTCTTCTCGTCGTGCTCCCCAG  130
+            || ||||| || || |||||||| |||||||| |||||||||||| | |||||||| |||
+Sbjct  61   CGCGGTTTCTACTTCAACAAACCGACTGGTTACGGTTCTTCTTCTAGACGTGCTCCGCAG  120
+
+Query  131  ACTGGTATTGTTGACGAATGCTGCTTTCGTTCTTGCGACCTGCGTCGTCTGGAAATGTAT  190
+            |||||||| ||||| |||||||||||  | ||||| |||||||||||||| || ||||| 
+Sbjct  121  ACTGGTATCGTTGATGAATGCTGCTTCAGATCTTGTGACCTGCGTCGTCTCGAGATGTAC  180
+
+Query  191  TGCGCTCCCCTGAAACCCGCTAAATCTGCTTAG  223
+            ||||| || |||||||| |||||||||||||||
+Sbjct  181  TGCGCACCGCTGAAACCGGCTAAATCTGCTTAG  213
+
+
+>J03738.1 Synthetic human insulin-like growth factor I (IGF-I) gene, C-chain 
+mutant, partial cds
+Length=216
+
+ Score = 246 bits (272),  Expect = 1e-60
+ Identities = 181/211 (86%), Gaps = 0/211 (0%)
+ Strand=Plus/Plus
+
+Query  11   GGTCCCGAAACTCTGTGCGGTGCTGAACTGGTTGACGCTCTGCAGTTTGTTTGCGGTGAC  70
+            ||||| |||||| |||| |||||||| || |||||||||||| |  | ||||||||||||
+Sbjct  1    GGTCCGGAAACTTTGTGTGGTGCTGAGCTCGTTGACGCTCTGTACCTCGTTTGCGGTGAC  60
+
+Query  71   CGTGGTTTTTATTTTAACAAACCCACTGGTTATGGTTCTTCTTCTCGTCGTGCTCCCCAG  130
+            || ||||| || || |||||||| |||||||| |||||||||||| | |||||||| |||
+Sbjct  61   CGCGGTTTCTACTTCAACAAACCGACTGGTTACGGTTCTTCTTCTAGACGTGCTCCGCAG  120
+
+Query  131  ACTGGTATTGTTGACGAATGCTGCTTTCGTTCTTGCGACCTGCGTCGTCTGGAAATGTAT  190
+            |||||||| ||||| |||||||||||  | ||||| |||||||||||||| || ||||| 
+Sbjct  121  ACTGGTATCGTTGATGAATGCTGCTTCAGATCTTGTGACCTGCGTCGTCTCGAGATGTAC  180
+
+Query  191  TGCGCTCCCCTGAAACCCGCTAAATCTGCTT  221
+            ||||| || |||||||| |||||||||||||
+Sbjct  181  TGCGCACCGCTGAAACCGGCTAAATCTGCTT  211
+
+
+>J03740.1 Human insulin-like growth factor I (IGF-I) gene, E-chain mutant, 
+partial cds
+Length=216
+
+ Score = 237 bits (262),  Expect = 7e-58
+ Identities = 179/211 (85%), Gaps = 0/211 (0%)
+ Strand=Plus/Plus
+
+Query  11   GGTCCCGAAACTCTGTGCGGTGCTGAACTGGTTGACGCTCTGCAGTTTGTTTGCGGTGAC  70
+            |||||  || || |||| |||||||| || |||||||||||| |  | ||||||||||||
+Sbjct  1    GGTCCGCAAGCTTTGTGTGGTGCTGAGCTCGTTGACGCTCTGTACCTCGTTTGCGGTGAC  60
+
+Query  71   CGTGGTTTTTATTTTAACAAACCCACTGGTTATGGTTCTTCTTCTCGTCGTGCTCCCCAG  130
+            || ||||| || || |||||||| |||||||| |||||||||||| | |||||||| |||
+Sbjct  61   CGCGGTTTCTACTTCAACAAACCGACTGGTTACGGTTCTTCTTCTAGACGTGCTCCGCAG  120
+
+Query  131  ACTGGTATTGTTGACGAATGCTGCTTTCGTTCTTGCGACCTGCGTCGTCTGGAAATGTAT  190
+            |||||||| ||||| |||||||||||  | ||||| |||||||||||||| || ||||| 
+Sbjct  121  ACTGGTATCGTTGATGAATGCTGCTTCAGATCTTGTGACCTGCGTCGTCTCGAGATGTAC  180
+
+Query  191  TGCGCTCCCCTGAAACCCGCTAAATCTGCTT  221
+            ||||| || |||||||| |||||||||||||
+Sbjct  181  TGCGCACCGCTGAAACCGGCTAAATCTGCTT  211
+
+
+>X05113.1 Synthetic gene for recombinant somatomedin C
+Length=529
+
+ Score = 230 bits (254),  Expect = 1e-55
+ Identities = 183/219 (84%), Gaps = 1/219 (0%)
+ Strand=Plus/Plus
+
+Query  1    GAATTCTAACGGTCCCGAAACTCTGTGCGGTGCTGAACTGGTTGACGCTCTGCAGTTTGT  60
+            |||||| |  ||||| |||||||||||||| ||||||||||||||||||||||| |||||
+Sbjct  305  GAATTC-ATGGGTCCTGAAACTCTGTGCGGCGCTGAACTGGTTGACGCTCTGCAATTTGT  363
+
+Query  61   TTGCGGTGACCGTGGTTTTTATTTTAACAAACCCACTGGTTATGGTTCTTCTTCTCGTCG  120
+             || ||||| |||||||| || || |||||||| || || ||||| ||    ||||||||
+Sbjct  364  ATGTGGTGATCGTGGTTTCTACTTCAACAAACCGACCGGCTATGGCTCCAGCTCTCGTCG  423
+
+Query  121  TGCTCCCCAGACTGGTATTGTTGACGAATGCTGCTTTCGTTCTTGCGACCTGCGTCGTCT  180
+             || || ||||||||||| || ||||||||||| |||||||||||||| || || |||||
+Sbjct  424  CGCACCGCAGACTGGTATCGTAGACGAATGCTGTTTTCGTTCTTGCGATCTCCGCCGTCT  483
+
+Query  181  GGAAATGTATTGCGCTCCCCTGAAACCCGCTAAATCTGC  219
+            ||||||||| || ||||| ||||| || || ||||| ||
+Sbjct  484  GGAAATGTACTGTGCTCCACTGAAGCCAGCAAAATCCGC  522
+
+
+>D10367.1 Synthetic construct plasmid pCE-SMtrp genes for acidic 10K peptide 
+and Met-somatomedin C, complete cds
+Length=510
+
+ Score = 229 bits (253),  Expect = 4e-55
+ Identities = 176/209 (84%), Gaps = 0/209 (0%)
+ Strand=Plus/Plus
+
+Query  11   GGTCCCGAAACTCTGTGCGGTGCTGAACTGGTTGACGCTCTGCAGTTTGTTTGCGGTGAC  70
+            ||||| |||||||||||||| ||||||||||||||||||||||| ||||| || ||||| 
+Sbjct  295  GGTCCTGAAACTCTGTGCGGCGCTGAACTGGTTGACGCTCTGCAATTTGTATGTGGTGAT  354
+
+Query  71   CGTGGTTTTTATTTTAACAAACCCACTGGTTATGGTTCTTCTTCTCGTCGTGCTCCCCAG  130
+            |||||||| || || |||||||| || || ||||| ||    |||||||| || || |||
+Sbjct  355  CGTGGTTTCTACTTCAACAAACCGACCGGCTATGGCTCCAGCTCTCGTCGCGCACCGCAG  414
+
+Query  131  ACTGGTATTGTTGACGAATGCTGCTTTCGTTCTTGCGACCTGCGTCGTCTGGAAATGTAT  190
+            |||||||| || ||||||||||| |||||||||||||| || || |||||||||||||| 
+Sbjct  415  ACTGGTATCGTAGACGAATGCTGTTTTCGTTCTTGCGATCTCCGCCGTCTGGAAATGTAC  474
+
+Query  191  TGCGCTCCCCTGAAACCCGCTAAATCTGC  219
+            || ||||| ||||| || || ||||| ||
+Sbjct  475  TGTGCTCCACTGAAGCCAGCAAAATCCGC  503
+
+
+ Score = 57.2 bits (62),  Expect = 0.001
+ Identities = 55/71 (77%), Gaps = 0/71 (0%)
+ Strand=Plus/Plus
+
+Query  77   TTTTATTTTAACAAACCCACTGGTTATGGTTCTTCTTCTCGTCGTGCTCCCCAGACTGGT  136
+            || || || |||||||| || || ||||| ||    |||||||| || || |||||||||
+Sbjct  11   TTCTACTTCAACAAACCGACCGGCTATGGCTCCAGCTCTCGTCGCGCACCGCAGACTGGT  70
+
+Query  137  ATTGTTGACGA  147
+            || || |||||
+Sbjct  71   ATCGTAGACGA  81
+
+
+>MK166020.1 Synthetic construct DsbA/IGF1 fusion protein gene, partial cds
+Length=848
+
+ Score = 164 bits (181),  Expect = 1e-35
+ Identities = 158/203 (78%), Gaps = 0/203 (0%)
+ Strand=Plus/Minus
+
+Query  11   GGTCCCGAAACTCTGTGCGGTGCTGAACTGGTTGACGCTCTGCAGTTTGTTTGCGGTGAC  70
+            || ||||| ||  | ||||| || || || || || || || || || || || || || 
+Sbjct  217  GGACCCGAGACATTATGCGGCGCGGAGCTTGTGGATGCCCTTCAATTCGTGTGTGGGGAT  158
+
+Query  71   CGTGGTTTTTATTTTAACAAACCCACTGGTTATGGTTCTTCTTCTCGTCGTGCTCCCCAG  130
+            ||||| || ||||| || ||||| || || ||||| |||||||||||||||||||| |||
+Sbjct  157  CGTGGGTTCTATTTCAATAAACCAACGGGCTATGGATCTTCTTCTCGTCGTGCTCCACAG  98
+
+Query  131  ACTGGTATTGTTGACGAATGCTGCTTTCGTTCTTGCGACCTGCGTCGTCTGGAAATGTAT  190
+            || || |||||||| || ||||| || ||||| ||||| || |||||||| |||||||| 
+Sbjct  97   ACGGGCATTGTTGATGAGTGCTGTTTCCGTTCGTGCGATCTTCGTCGTCTTGAAATGTAC  38
+
+Query  191  TGCGCTCCCCTGAAACCCGCTAA  213
+            ||||| ||  |||| || || ||
+Sbjct  37   TGCGCACCATTGAAGCCAGCAAA  15
+
+
+>D43957.1 Suncus murinus adult liver mRNA for insulin-like growth factor 
+I (IGF-I)
+Length=244
+
+ Score = 152 bits (168),  Expect = 2e-32
+ Identities = 156/204 (76%), Gaps = 0/204 (0%)
+ Strand=Plus/Plus
+
+Query  10   CGGTCCCGAAACTCTGTGCGGTGCTGAACTGGTTGACGCTCTGCAGTTTGTTTGCGGTGA  69
+            ||| || || ||||| ||||| ||||| ||||| ||||| || |||||||| || |||||
+Sbjct  13   CGGACCAGAGACTCTCTGCGGGGCTGAGCTGGTGGACGCACTTCAGTTTGTGTGTGGTGA  72
+
+Query  70   CCGTGGTTTTTATTTTAACAAACCCACTGGTTATGGTTCTTCTTCTCGTCGTGCTCCCCA  129
+            | | || |||||||| ||||| ||||| || ||||| ||   |  |||  | || || ||
+Sbjct  73   CAGGGGCTTTTATTTCAACAAGCCCACGGGGTATGGCTCCAGTAGTCGGAGGGCACCTCA  132
+
+Query  130  GACTGGTATTGTTGACGAATGCTGCTTTCGTTCTTGCGACCTGCGTCGTCTGGAAATGTA  189
+            ||| || || || || || |||||||| ||   ||| |||||| | || ||||| |||||
+Sbjct  133  GACCGGCATAGTGGATGAGTGCTGCTTCCGGAGTTGTGACCTGAGACGGCTGGAGATGTA  192
+
+Query  190  TTGCGCTCCCCTGAAACCCGCTAA  213
+            |||||| |||||||| || || ||
+Sbjct  193  TTGCGCACCCCTGAAGCCTGCCAA  216
+
+
+>XM_012801281.2 PREDICTED: Otolemur garnettii insulin like growth factor 1 (IGF1), 
+transcript variant X2, mRNA
+Length=769
+
+ Score = 150 bits (165),  Expect = 3e-31
+ Identities = 159/210 (76%), Gaps = 0/210 (0%)
+ Strand=Plus/Plus
+
+Query  11   GGTCCCGAAACTCTGTGCGGTGCTGAACTGGTTGACGCTCTGCAGTTTGTTTGCGGTGAC  70
+            || ||||| || |||||||| ||||| ||||| ||||||||||||||||| ||||| |||
+Sbjct  291  GGACCCGAGACGCTGTGCGGGGCTGAGCTGGTGGACGCTCTGCAGTTTGTGTGCGGAGAC  350
+
+Query  71   CGTGGTTTTTATTTTAACAAACCCACTGGTTATGGTTCTTCTTCTCGTCGTGCTCCCCAG  130
+             | || |||||||| ||||| ||||| || ||||| ||      |||  | || || |||
+Sbjct  351  AGGGGCTTTTATTTCAACAAGCCCACGGGGTATGGCTCCAGCAGTCGAAGGGCGCCTCAG  410
+
+Query  131  ACTGGTATTGTTGACGAATGCTGCTTTCGTTCTTGCGACCTGCGTCGTCTGGAAATGTAT  190
+            || || ||||| ||||| |||||||| ||    || || ||| |  | ||||| ||||| 
+Sbjct  411  ACAGGCATTGTGGACGAGTGCTGCTTCCGGAGCTGTGATCTGAGGAGGCTGGAGATGTAC  470
+
+Query  191  TGCGCTCCCCTGAAACCCGCTAAATCTGCT  220
+            || || ||||| || || || || ||||||
+Sbjct  471  TGTGCACCCCTCAAGCCTGCCAAGTCTGCT  500
+
+
+>XM_003783298.2 PREDICTED: Otolemur garnettii insulin like growth factor 1 (IGF1), 
+transcript variant X1, mRNA
+Length=887
+
+ Score = 150 bits (165),  Expect = 3e-31
+ Identities = 159/210 (76%), Gaps = 0/210 (0%)
+ Strand=Plus/Plus
+
+Query  11   GGTCCCGAAACTCTGTGCGGTGCTGAACTGGTTGACGCTCTGCAGTTTGTTTGCGGTGAC  70
+            || ||||| || |||||||| ||||| ||||| ||||||||||||||||| ||||| |||
+Sbjct  409  GGACCCGAGACGCTGTGCGGGGCTGAGCTGGTGGACGCTCTGCAGTTTGTGTGCGGAGAC  468
+
+Query  71   CGTGGTTTTTATTTTAACAAACCCACTGGTTATGGTTCTTCTTCTCGTCGTGCTCCCCAG  130
+             | || |||||||| ||||| ||||| || ||||| ||      |||  | || || |||
+Sbjct  469  AGGGGCTTTTATTTCAACAAGCCCACGGGGTATGGCTCCAGCAGTCGAAGGGCGCCTCAG  528
+
+Query  131  ACTGGTATTGTTGACGAATGCTGCTTTCGTTCTTGCGACCTGCGTCGTCTGGAAATGTAT  190
+            || || ||||| ||||| |||||||| ||    || || ||| |  | ||||| ||||| 
+Sbjct  529  ACAGGCATTGTGGACGAGTGCTGCTTCCGGAGCTGTGATCTGAGGAGGCTGGAGATGTAC  588
+
+Query  191  TGCGCTCCCCTGAAACCCGCTAAATCTGCT  220
+            || || ||||| || || || || ||||||
+Sbjct  589  TGTGCACCCCTCAAGCCTGCCAAGTCTGCT  618
+
+
+>XM_049783184.1 PREDICTED: Suncus etruscus insulin like growth factor 1 (IGF1), 
+transcript variant X2, mRNA
+Length=882
+
+ Score = 143 bits (158),  Expect = 1e-29
+ Identities = 154/204 (75%), Gaps = 0/204 (0%)
+ Strand=Plus/Plus
+
+Query  10   CGGTCCCGAAACTCTGTGCGGTGCTGAACTGGTTGACGCTCTGCAGTTTGTTTGCGGTGA  69
+            ||| || || ||||| ||||| ||||| ||||| ||||| || |||||||| || |||||
+Sbjct  400  CGGACCAGAGACTCTCTGCGGGGCTGAGCTGGTGGACGCACTTCAGTTTGTGTGTGGTGA  459
+
+Query  70   CCGTGGTTTTTATTTTAACAAACCCACTGGTTATGGTTCTTCTTCTCGTCGTGCTCCCCA  129
+            | | || |||||||| ||||| ||||| || || || ||   |  |||  | || || ||
+Sbjct  460  CAGGGGCTTTTATTTCAACAAGCCCACGGGGTACGGCTCCAGTAGTCGGAGGGCGCCTCA  519
+
+Query  130  GACTGGTATTGTTGACGAATGCTGCTTTCGTTCTTGCGACCTGCGTCGTCTGGAAATGTA  189
+            ||| || || || || || |||||||| ||    || |||||| | || ||||| |||||
+Sbjct  520  GACCGGCATAGTGGATGAGTGCTGCTTCCGGAGCTGTGACCTGAGACGGCTGGAGATGTA  579
+
+Query  190  TTGCGCTCCCCTGAAACCCGCTAA  213
+            |||||| |||||||| || || ||
+Sbjct  580  TTGCGCACCCCTGAAGCCTGCCAA  603
+
+
+>XM_049783183.1 PREDICTED: Suncus etruscus insulin like growth factor 1 (IGF1), 
+transcript variant X1, mRNA
+Length=597
+
+ Score = 143 bits (158),  Expect = 1e-29
+ Identities = 154/204 (75%), Gaps = 0/204 (0%)
+ Strand=Plus/Plus
+
+Query  10   CGGTCCCGAAACTCTGTGCGGTGCTGAACTGGTTGACGCTCTGCAGTTTGTTTGCGGTGA  69
+            ||| || || ||||| ||||| ||||| ||||| ||||| || |||||||| || |||||
+Sbjct  115  CGGACCAGAGACTCTCTGCGGGGCTGAGCTGGTGGACGCACTTCAGTTTGTGTGTGGTGA  174
+
+Query  70   CCGTGGTTTTTATTTTAACAAACCCACTGGTTATGGTTCTTCTTCTCGTCGTGCTCCCCA  129
+            | | || |||||||| ||||| ||||| || || || ||   |  |||  | || || ||
+Sbjct  175  CAGGGGCTTTTATTTCAACAAGCCCACGGGGTACGGCTCCAGTAGTCGGAGGGCGCCTCA  234
+
+Query  130  GACTGGTATTGTTGACGAATGCTGCTTTCGTTCTTGCGACCTGCGTCGTCTGGAAATGTA  189
+            ||| || || || || || |||||||| ||    || |||||| | || ||||| |||||
+Sbjct  235  GACCGGCATAGTGGATGAGTGCTGCTTCCGGAGCTGTGACCTGAGACGGCTGGAGATGTA  294
+
+Query  190  TTGCGCTCCCCTGAAACCCGCTAA  213
+            |||||| |||||||| || || ||
+Sbjct  295  TTGCGCACCCCTGAAGCCTGCCAA  318
+
+
+>XM_032844339.1 PREDICTED: Lontra canadensis insulin like growth factor 1 (IGF1), 
+transcript variant X5, mRNA
+Length=2177
+
+ Score = 134 bits (148),  Expect = 6e-27
+ Identities = 152/203 (75%), Gaps = 2/203 (1%)
+ Strand=Plus/Plus
+
+Query  17   GAAACTCTGTGCGGTGCTGAACTGGTTGACGCTCTGCAGTTTGTTTGCGGTGACCGTGGT  76
+            || |||||||| ||  |||||||||| || ||||| ||||| || || || ||| | |||
+Sbjct  208  GACACTCTGTGGGG--CTGAACTGGTGGATGCTCTTCAGTTCGTGTGTGGAGACAGGGGT  265
+
+Query  77   TTTTATTTTAACAAACCCACTGGTTATGGTTCTTCTTCTCGTCGTGCTCCCCAGACTGGT  136
+            |||||||| ||||| ||||| || ||||||||      |||  | || || ||||| || 
+Sbjct  266  TTTTATTTCAACAAGCCCACGGGGTATGGTTCAAGCAGTCGGAGGGCACCTCAGACAGGC  325
+
+Query  137  ATTGTTGACGAATGCTGCTTTCGTTCTTGCGACCTGCGTCGTCTGGAAATGTATTGCGCT  196
+            ||||| |||||||||||||| ||    || || ||| |  | || || ||||| ||||| 
+Sbjct  326  ATTGTGGACGAATGCTGCTTCCGGAGCTGTGATCTGAGGAGGCTAGAGATGTACTGCGCA  385
+
+Query  197  CCCCTGAAACCCGCTAAATCTGC  219
+            ||||| || || || || |||||
+Sbjct  386  CCCCTCAAGCCTGCCAAGTCTGC  408
+
+
+>XM_032844338.1 PREDICTED: Lontra canadensis insulin like growth factor 1 (IGF1), 
+transcript variant X4, mRNA
+Length=2384
+
+ Score = 134 bits (148),  Expect = 6e-27
+ Identities = 152/203 (75%), Gaps = 2/203 (1%)
+ Strand=Plus/Plus
+
+Query  17   GAAACTCTGTGCGGTGCTGAACTGGTTGACGCTCTGCAGTTTGTTTGCGGTGACCGTGGT  76
+            || |||||||| ||  |||||||||| || ||||| ||||| || || || ||| | |||
+Sbjct  415  GACACTCTGTGGGG--CTGAACTGGTGGATGCTCTTCAGTTCGTGTGTGGAGACAGGGGT  472
+
+Query  77   TTTTATTTTAACAAACCCACTGGTTATGGTTCTTCTTCTCGTCGTGCTCCCCAGACTGGT  136
+            |||||||| ||||| ||||| || ||||||||      |||  | || || ||||| || 
+Sbjct  473  TTTTATTTCAACAAGCCCACGGGGTATGGTTCAAGCAGTCGGAGGGCACCTCAGACAGGC  532
+
+Query  137  ATTGTTGACGAATGCTGCTTTCGTTCTTGCGACCTGCGTCGTCTGGAAATGTATTGCGCT  196
+            ||||| |||||||||||||| ||    || || ||| |  | || || ||||| ||||| 
+Sbjct  533  ATTGTGGACGAATGCTGCTTCCGGAGCTGTGATCTGAGGAGGCTAGAGATGTACTGCGCA  592
+
+Query  197  CCCCTGAAACCCGCTAAATCTGC  219
+            ||||| || || || || |||||
+Sbjct  593  CCCCTCAAGCCTGCCAAGTCTGC  615
+
+
+>XM_032844335.1 PREDICTED: Lontra canadensis insulin like growth factor 1 (IGF1), 
+transcript variant X3, mRNA
+Length=2436
+
+ Score = 134 bits (148),  Expect = 6e-27
+ Identities = 152/203 (75%), Gaps = 2/203 (1%)
+ Strand=Plus/Plus
+
+Query  17   GAAACTCTGTGCGGTGCTGAACTGGTTGACGCTCTGCAGTTTGTTTGCGGTGACCGTGGT  76
+            || |||||||| ||  |||||||||| || ||||| ||||| || || || ||| | |||
+Sbjct  415  GACACTCTGTGGGG--CTGAACTGGTGGATGCTCTTCAGTTCGTGTGTGGAGACAGGGGT  472
+
+Query  77   TTTTATTTTAACAAACCCACTGGTTATGGTTCTTCTTCTCGTCGTGCTCCCCAGACTGGT  136
+            |||||||| ||||| ||||| || ||||||||      |||  | || || ||||| || 
+Sbjct  473  TTTTATTTCAACAAGCCCACGGGGTATGGTTCAAGCAGTCGGAGGGCACCTCAGACAGGC  532
+
+Query  137  ATTGTTGACGAATGCTGCTTTCGTTCTTGCGACCTGCGTCGTCTGGAAATGTATTGCGCT  196
+            ||||| |||||||||||||| ||    || || ||| |  | || || ||||| ||||| 
+Sbjct  533  ATTGTGGACGAATGCTGCTTCCGGAGCTGTGATCTGAGGAGGCTAGAGATGTACTGCGCA  592
+
+Query  197  CCCCTGAAACCCGCTAAATCTGC  219
+            ||||| || || || || |||||
+Sbjct  593  CCCCTCAAGCCTGCCAAGTCTGC  615
+
+
+>XM_032844334.1 PREDICTED: Lontra canadensis insulin like growth factor 1 (IGF1), 
+transcript variant X2, mRNA
+Length=1451
+
+ Score = 134 bits (148),  Expect = 6e-27
+ Identities = 152/203 (75%), Gaps = 2/203 (1%)
+ Strand=Plus/Plus
+
+Query  17   GAAACTCTGTGCGGTGCTGAACTGGTTGACGCTCTGCAGTTTGTTTGCGGTGACCGTGGT  76
+            || |||||||| ||  |||||||||| || ||||| ||||| || || || ||| | |||
+Sbjct  239  GACACTCTGTGGGG--CTGAACTGGTGGATGCTCTTCAGTTCGTGTGTGGAGACAGGGGT  296
+
+Query  77   TTTTATTTTAACAAACCCACTGGTTATGGTTCTTCTTCTCGTCGTGCTCCCCAGACTGGT  136
+            |||||||| ||||| ||||| || ||||||||      |||  | || || ||||| || 
+Sbjct  297  TTTTATTTCAACAAGCCCACGGGGTATGGTTCAAGCAGTCGGAGGGCACCTCAGACAGGC  356
+
+Query  137  ATTGTTGACGAATGCTGCTTTCGTTCTTGCGACCTGCGTCGTCTGGAAATGTATTGCGCT  196
+            ||||| |||||||||||||| ||    || || ||| |  | || || ||||| ||||| 
+Sbjct  357  ATTGTGGACGAATGCTGCTTCCGGAGCTGTGATCTGAGGAGGCTAGAGATGTACTGCGCA  416
+
+Query  197  CCCCTGAAACCCGCTAAATCTGC  219
+            ||||| || || || || |||||
+Sbjct  417  CCCCTCAAGCCTGCCAAGTCTGC  439
+
+
+>XM_032844333.1 PREDICTED: Lontra canadensis insulin like growth factor 1 (IGF1), 
+transcript variant X1, mRNA
+Length=1627
+
+ Score = 134 bits (148),  Expect = 6e-27
+ Identities = 152/203 (75%), Gaps = 2/203 (1%)
+ Strand=Plus/Plus
+
+Query  17   GAAACTCTGTGCGGTGCTGAACTGGTTGACGCTCTGCAGTTTGTTTGCGGTGACCGTGGT  76
+            || |||||||| ||  |||||||||| || ||||| ||||| || || || ||| | |||
+Sbjct  415  GACACTCTGTGGGG--CTGAACTGGTGGATGCTCTTCAGTTCGTGTGTGGAGACAGGGGT  472
+
+Query  77   TTTTATTTTAACAAACCCACTGGTTATGGTTCTTCTTCTCGTCGTGCTCCCCAGACTGGT  136
+            |||||||| ||||| ||||| || ||||||||      |||  | || || ||||| || 
+Sbjct  473  TTTTATTTCAACAAGCCCACGGGGTATGGTTCAAGCAGTCGGAGGGCACCTCAGACAGGC  532
+
+Query  137  ATTGTTGACGAATGCTGCTTTCGTTCTTGCGACCTGCGTCGTCTGGAAATGTATTGCGCT  196
+            ||||| |||||||||||||| ||    || || ||| |  | || || ||||| ||||| 
+Sbjct  533  ATTGTGGACGAATGCTGCTTCCGGAGCTGTGATCTGAGGAGGCTAGAGATGTACTGCGCA  592
+
+Query  197  CCCCTGAAACCCGCTAAATCTGC  219
+            ||||| || || || || |||||
+Sbjct  593  CCCCTCAAGCCTGCCAAGTCTGC  615
+
+
+>XM_046013468.1 PREDICTED: Meles meles insulin like growth factor 1 (IGF1), transcript 
+variant X3, mRNA
+Length=7230
+
+ Score = 134 bits (148),  Expect = 6e-27
+ Identities = 155/209 (74%), Gaps = 0/209 (0%)
+ Strand=Plus/Plus
+
+Query  11   GGTCCCGAAACTCTGTGCGGTGCTGAACTGGTTGACGCTCTGCAGTTTGTTTGCGGTGAC  70
+            || || || || || || || ||||||||||| || ||||| ||||| || || || |||
+Sbjct  341  GGACCAGAGACGCTCTGTGGGGCTGAACTGGTGGATGCTCTTCAGTTCGTGTGTGGAGAC  400
+
+Query  71   CGTGGTTTTTATTTTAACAAACCCACTGGTTATGGTTCTTCTTCTCGTCGTGCTCCCCAG  130
+             | ||||||||||| ||||| ||||| || ||||||||      |||  | || || |||
+Sbjct  401  AGGGGTTTTTATTTCAACAAGCCCACGGGGTATGGTTCAAGCAGTCGGAGGGCACCTCAG  460
+
+Query  131  ACTGGTATTGTTGACGAATGCTGCTTTCGTTCTTGCGACCTGCGTCGTCTGGAAATGTAT  190
+            || || ||||| ||||| |||||||| ||    || || ||| |  | || || ||||| 
+Sbjct  461  ACAGGCATTGTGGACGAGTGCTGCTTCCGGAGCTGTGATCTGAGGAGGCTAGAGATGTAC  520
+
+Query  191  TGCGCTCCCCTGAAACCCGCTAAATCTGC  219
+            ||||| ||||| || ||||| || |||||
+Sbjct  521  TGCGCACCCCTCAAGCCCGCCAAGTCTGC  549
+
+
+>XM_046013467.1 PREDICTED: Meles meles insulin like growth factor 1 (IGF1), transcript 
+variant X2, mRNA
+Length=7282
+
+ Score = 134 bits (148),  Expect = 6e-27
+ Identities = 155/209 (74%), Gaps = 0/209 (0%)
+ Strand=Plus/Plus
+
+Query  11   GGTCCCGAAACTCTGTGCGGTGCTGAACTGGTTGACGCTCTGCAGTTTGTTTGCGGTGAC  70
+            || || || || || || || ||||||||||| || ||||| ||||| || || || |||
+Sbjct  341  GGACCAGAGACGCTCTGTGGGGCTGAACTGGTGGATGCTCTTCAGTTCGTGTGTGGAGAC  400
+
+Query  71   CGTGGTTTTTATTTTAACAAACCCACTGGTTATGGTTCTTCTTCTCGTCGTGCTCCCCAG  130
+             | ||||||||||| ||||| ||||| || ||||||||      |||  | || || |||
+Sbjct  401  AGGGGTTTTTATTTCAACAAGCCCACGGGGTATGGTTCAAGCAGTCGGAGGGCACCTCAG  460
+
+Query  131  ACTGGTATTGTTGACGAATGCTGCTTTCGTTCTTGCGACCTGCGTCGTCTGGAAATGTAT  190
+            || || ||||| ||||| |||||||| ||    || || ||| |  | || || ||||| 
+Sbjct  461  ACAGGCATTGTGGACGAGTGCTGCTTCCGGAGCTGTGATCTGAGGAGGCTAGAGATGTAC  520
+
+Query  191  TGCGCTCCCCTGAAACCCGCTAAATCTGC  219
+            ||||| ||||| || ||||| || |||||
+Sbjct  521  TGCGCACCCCTCAAGCCCGCCAAGTCTGC  549
+
+
+>XM_046013466.1 PREDICTED: Meles meles insulin like growth factor 1 (IGF1), transcript 
+variant X1, mRNA
+Length=760
+
+ Score = 134 bits (148),  Expect = 6e-27
+ Identities = 155/209 (74%), Gaps = 0/209 (0%)
+ Strand=Plus/Plus
+
+Query  11   GGTCCCGAAACTCTGTGCGGTGCTGAACTGGTTGACGCTCTGCAGTTTGTTTGCGGTGAC  70
+            || || || || || || || ||||||||||| || ||||| ||||| || || || |||
+Sbjct  341  GGACCAGAGACGCTCTGTGGGGCTGAACTGGTGGATGCTCTTCAGTTCGTGTGTGGAGAC  400
+
+Query  71   CGTGGTTTTTATTTTAACAAACCCACTGGTTATGGTTCTTCTTCTCGTCGTGCTCCCCAG  130
+             | ||||||||||| ||||| ||||| || ||||||||      |||  | || || |||
+Sbjct  401  AGGGGTTTTTATTTCAACAAGCCCACGGGGTATGGTTCAAGCAGTCGGAGGGCACCTCAG  460
+
+Query  131  ACTGGTATTGTTGACGAATGCTGCTTTCGTTCTTGCGACCTGCGTCGTCTGGAAATGTAT  190
+            || || ||||| ||||| |||||||| ||    || || ||| |  | || || ||||| 
+Sbjct  461  ACAGGCATTGTGGACGAGTGCTGCTTCCGGAGCTGTGATCTGAGGAGGCTAGAGATGTAC  520
+
+Query  191  TGCGCTCCCCTGAAACCCGCTAAATCTGC  219
+            ||||| ||||| || ||||| || |||||
+Sbjct  521  TGCGCACCCCTCAAGCCCGCCAAGTCTGC  549
+
+
+>XM_008062221.2 PREDICTED: Carlito syrichta insulin like growth factor 1 (IGF1), 
+transcript variant X4, mRNA
+Length=887
+
+ Score = 132 bits (145),  Expect = 8e-26
+ Identities = 155/210 (74%), Gaps = 0/210 (0%)
+ Strand=Plus/Plus
+
+Query  10   CGGTCCCGAAACTCTGTGCGGTGCTGAACTGGTTGACGCTCTGCAGTTTGTTTGCGGTGA  69
+            ||| ||||| || || ||||| ||||| ||||| |||||||| ||||| || || || ||
+Sbjct  408  CGGACCCGAGACGCTCTGCGGGGCTGAGCTGGTGGACGCTCTTCAGTTCGTGTGTGGAGA  467
+
+Query  70   CCGTGGTTTTTATTTTAACAAACCCACTGGTTATGGTTCTTCTTCTCGTCGTGCTCCCCA  129
+            | | || |||||||| ||||| ||||| || ||||| ||      |||  | || || ||
+Sbjct  468  CAGGGGCTTTTATTTCAACAAGCCCACAGGGTATGGCTCCAGCAGTCGGAGGGCACCTCA  527
+
+Query  130  GACTGGTATTGTTGACGAATGCTGCTTTCGTTCTTGCGACCTGCGTCGTCTGGAAATGTA  189
+            ||| || || || |||||||||||||| ||    || |||||| |  | ||||| |||||
+Sbjct  528  GACGGGCATCGTGGACGAATGCTGCTTCCGGAGCTGTGACCTGAGGAGGCTGGAGATGTA  587
+
+Query  190  TTGCGCTCCCCTGAAACCCGCTAAATCTGC  219
+             || || ||||| || || || || || ||
+Sbjct  588  CTGTGCACCCCTCAAGCCTGCCAAGTCGGC  617
+
+
+>XM_021714565.1 PREDICTED: Carlito syrichta insulin like growth factor 1 (IGF1), 
+transcript variant X3, mRNA
+Length=936
+
+ Score = 132 bits (145),  Expect = 8e-26
+ Identities = 155/210 (74%), Gaps = 0/210 (0%)
+ Strand=Plus/Plus
+
+Query  10   CGGTCCCGAAACTCTGTGCGGTGCTGAACTGGTTGACGCTCTGCAGTTTGTTTGCGGTGA  69
+            ||| ||||| || || ||||| ||||| ||||| |||||||| ||||| || || || ||
+Sbjct  408  CGGACCCGAGACGCTCTGCGGGGCTGAGCTGGTGGACGCTCTTCAGTTCGTGTGTGGAGA  467
+
+Query  70   CCGTGGTTTTTATTTTAACAAACCCACTGGTTATGGTTCTTCTTCTCGTCGTGCTCCCCA  129
+            | | || |||||||| ||||| ||||| || ||||| ||      |||  | || || ||
+Sbjct  468  CAGGGGCTTTTATTTCAACAAGCCCACAGGGTATGGCTCCAGCAGTCGGAGGGCACCTCA  527
+
+Query  130  GACTGGTATTGTTGACGAATGCTGCTTTCGTTCTTGCGACCTGCGTCGTCTGGAAATGTA  189
+            ||| || || || |||||||||||||| ||    || |||||| |  | ||||| |||||
+Sbjct  528  GACGGGCATCGTGGACGAATGCTGCTTCCGGAGCTGTGACCTGAGGAGGCTGGAGATGTA  587
+
+Query  190  TTGCGCTCCCCTGAAACCCGCTAAATCTGC  219
+             || || ||||| || || || || || ||
+Sbjct  588  CTGTGCACCCCTCAAGCCTGCCAAGTCGGC  617
+
+
+>XM_021714564.1 PREDICTED: Carlito syrichta insulin like growth factor 1 (IGF1), 
+transcript variant X2, mRNA
+Length=755
+
+ Score = 132 bits (145),  Expect = 8e-26
+ Identities = 155/210 (74%), Gaps = 0/210 (0%)
+ Strand=Plus/Plus
+
+Query  10   CGGTCCCGAAACTCTGTGCGGTGCTGAACTGGTTGACGCTCTGCAGTTTGTTTGCGGTGA  69
+            ||| ||||| || || ||||| ||||| ||||| |||||||| ||||| || || || ||
+Sbjct  96   CGGACCCGAGACGCTCTGCGGGGCTGAGCTGGTGGACGCTCTTCAGTTCGTGTGTGGAGA  155
+
+Query  70   CCGTGGTTTTTATTTTAACAAACCCACTGGTTATGGTTCTTCTTCTCGTCGTGCTCCCCA  129
+            | | || |||||||| ||||| ||||| || ||||| ||      |||  | || || ||
+Sbjct  156  CAGGGGCTTTTATTTCAACAAGCCCACAGGGTATGGCTCCAGCAGTCGGAGGGCACCTCA  215
+
+Query  130  GACTGGTATTGTTGACGAATGCTGCTTTCGTTCTTGCGACCTGCGTCGTCTGGAAATGTA  189
+            ||| || || || |||||||||||||| ||    || |||||| |  | ||||| |||||
+Sbjct  216  GACGGGCATCGTGGACGAATGCTGCTTCCGGAGCTGTGACCTGAGGAGGCTGGAGATGTA  275
+
+Query  190  TTGCGCTCCCCTGAAACCCGCTAAATCTGC  219
+             || || ||||| || || || || || ||
+Sbjct  276  CTGTGCACCCCTCAAGCCTGCCAAGTCGGC  305
+
+
+>XM_008062220.2 PREDICTED: Carlito syrichta insulin like growth factor 1 (IGF1), 
+transcript variant X1, mRNA
+Length=1157
+
+ Score = 132 bits (145),  Expect = 8e-26
+ Identities = 155/210 (74%), Gaps = 0/210 (0%)
+ Strand=Plus/Plus
+
+Query  10   CGGTCCCGAAACTCTGTGCGGTGCTGAACTGGTTGACGCTCTGCAGTTTGTTTGCGGTGA  69
+            ||| ||||| || || ||||| ||||| ||||| |||||||| ||||| || || || ||
+Sbjct  408  CGGACCCGAGACGCTCTGCGGGGCTGAGCTGGTGGACGCTCTTCAGTTCGTGTGTGGAGA  467
+
+Query  70   CCGTGGTTTTTATTTTAACAAACCCACTGGTTATGGTTCTTCTTCTCGTCGTGCTCCCCA  129
+            | | || |||||||| ||||| ||||| || ||||| ||      |||  | || || ||
+Sbjct  468  CAGGGGCTTTTATTTCAACAAGCCCACAGGGTATGGCTCCAGCAGTCGGAGGGCACCTCA  527
+
+Query  130  GACTGGTATTGTTGACGAATGCTGCTTTCGTTCTTGCGACCTGCGTCGTCTGGAAATGTA  189
+            ||| || || || |||||||||||||| ||    || |||||| |  | ||||| |||||
+Sbjct  528  GACGGGCATCGTGGACGAATGCTGCTTCCGGAGCTGTGACCTGAGGAGGCTGGAGATGTA  587
+
+Query  190  TTGCGCTCCCCTGAAACCCGCTAAATCTGC  219
+             || || ||||| || || || || || ||
+Sbjct  588  CTGTGCACCCCTCAAGCCTGCCAAGTCGGC  617
+
+
+>XM_008062222.1 PREDICTED: Carlito syrichta insulin like growth factor 1 (IGF1), 
+transcript variant X5, mRNA
+Length=726
+
+ Score = 132 bits (145),  Expect = 8e-26
+ Identities = 155/210 (74%), Gaps = 0/210 (0%)
+ Strand=Plus/Plus
+
+Query  10   CGGTCCCGAAACTCTGTGCGGTGCTGAACTGGTTGACGCTCTGCAGTTTGTTTGCGGTGA  69
+            ||| ||||| || || ||||| ||||| ||||| |||||||| ||||| || || || ||
+Sbjct  247  CGGACCCGAGACGCTCTGCGGGGCTGAGCTGGTGGACGCTCTTCAGTTCGTGTGTGGAGA  306
+
+Query  70   CCGTGGTTTTTATTTTAACAAACCCACTGGTTATGGTTCTTCTTCTCGTCGTGCTCCCCA  129
+            | | || |||||||| ||||| ||||| || ||||| ||      |||  | || || ||
+Sbjct  307  CAGGGGCTTTTATTTCAACAAGCCCACAGGGTATGGCTCCAGCAGTCGGAGGGCACCTCA  366
+
+Query  130  GACTGGTATTGTTGACGAATGCTGCTTTCGTTCTTGCGACCTGCGTCGTCTGGAAATGTA  189
+            ||| || || || |||||||||||||| ||    || |||||| |  | ||||| |||||
+Sbjct  367  GACGGGCATCGTGGACGAATGCTGCTTCCGGAGCTGTGACCTGAGGAGGCTGGAGATGTA  426
+
+Query  190  TTGCGCTCCCCTGAAACCCGCTAAATCTGC  219
+             || || ||||| || || || || || ||
+Sbjct  427  CTGTGCACCCCTCAAGCCTGCCAAGTCGGC  456
+
+
+>XM_033117217.1 PREDICTED: Rhinolophus ferrumequinum insulin like growth factor 
+1 (IGF1), transcript variant X4, mRNA
+Length=4299
+
+ Score = 130 bits (143),  Expect = 3e-25
+ Identities = 154/209 (74%), Gaps = 0/209 (0%)
+ Strand=Plus/Plus
+
+Query  11   GGTCCCGAAACTCTGTGCGGTGCTGAACTGGTTGACGCTCTGCAGTTTGTTTGCGGTGAC  70
+            || || || || || ||||| ||||| ||||| |||||||| ||||| || || || |||
+Sbjct  244  GGGCCGGAGACACTCTGCGGGGCTGAGCTGGTGGACGCTCTTCAGTTCGTGTGTGGAGAC  303
+
+Query  71   CGTGGTTTTTATTTTAACAAACCCACTGGTTATGGTTCTTCTTCTCGTCGTGCTCCCCAG  130
+            || || |||||||| ||||| ||||| || ||||| ||      |||  | || || |||
+Sbjct  304  CGGGGCTTTTATTTCAACAAGCCCACGGGGTATGGCTCCAGCAGTCGGAGGGCGCCTCAG  363
+
+Query  131  ACTGGTATTGTTGACGAATGCTGCTTTCGTTCTTGCGACCTGCGTCGTCTGGAAATGTAT  190
+            || || ||||| |||||||||||||| ||    || || ||| |  | ||||| ||||| 
+Sbjct  364  ACAGGCATTGTGGACGAATGCTGCTTCCGGAGCTGTGATCTGAGAAGGCTGGAGATGTAC  423
+
+Query  191  TGCGCTCCCCTGAAACCCGCTAAATCTGC  219
+            || || ||||| || || || || || ||
+Sbjct  424  TGTGCACCCCTAAAGCCTGCCAAGTCAGC  452
+
+
+>XM_033117216.1 PREDICTED: Rhinolophus ferrumequinum insulin like growth factor 
+1 (IGF1), transcript variant X3, mRNA
+Length=4461
+
+ Score = 130 bits (143),  Expect = 3e-25
+ Identities = 154/209 (74%), Gaps = 0/209 (0%)
+ Strand=Plus/Plus
+
+Query  11   GGTCCCGAAACTCTGTGCGGTGCTGAACTGGTTGACGCTCTGCAGTTTGTTTGCGGTGAC  70
+            || || || || || ||||| ||||| ||||| |||||||| ||||| || || || |||
+Sbjct  406  GGGCCGGAGACACTCTGCGGGGCTGAGCTGGTGGACGCTCTTCAGTTCGTGTGTGGAGAC  465
+
+Query  71   CGTGGTTTTTATTTTAACAAACCCACTGGTTATGGTTCTTCTTCTCGTCGTGCTCCCCAG  130
+            || || |||||||| ||||| ||||| || ||||| ||      |||  | || || |||
+Sbjct  466  CGGGGCTTTTATTTCAACAAGCCCACGGGGTATGGCTCCAGCAGTCGGAGGGCGCCTCAG  525
+
+Query  131  ACTGGTATTGTTGACGAATGCTGCTTTCGTTCTTGCGACCTGCGTCGTCTGGAAATGTAT  190
+            || || ||||| |||||||||||||| ||    || || ||| |  | ||||| ||||| 
+Sbjct  526  ACAGGCATTGTGGACGAATGCTGCTTCCGGAGCTGTGATCTGAGAAGGCTGGAGATGTAC  585
+
+Query  191  TGCGCTCCCCTGAAACCCGCTAAATCTGC  219
+            || || ||||| || || || || || ||
+Sbjct  586  TGTGCACCCCTAAAGCCTGCCAAGTCAGC  614
+
+
+>XM_033117215.1 PREDICTED: Rhinolophus ferrumequinum insulin like growth factor 
+1 (IGF1), transcript variant X2, mRNA
+Length=905
+
+ Score = 130 bits (143),  Expect = 3e-25
+ Identities = 154/209 (74%), Gaps = 0/209 (0%)
+ Strand=Plus/Plus
+
+Query  11   GGTCCCGAAACTCTGTGCGGTGCTGAACTGGTTGACGCTCTGCAGTTTGTTTGCGGTGAC  70
+            || || || || || ||||| ||||| ||||| |||||||| ||||| || || || |||
+Sbjct  147  GGGCCGGAGACACTCTGCGGGGCTGAGCTGGTGGACGCTCTTCAGTTCGTGTGTGGAGAC  206
+
+Query  71   CGTGGTTTTTATTTTAACAAACCCACTGGTTATGGTTCTTCTTCTCGTCGTGCTCCCCAG  130
+            || || |||||||| ||||| ||||| || ||||| ||      |||  | || || |||
+Sbjct  207  CGGGGCTTTTATTTCAACAAGCCCACGGGGTATGGCTCCAGCAGTCGGAGGGCGCCTCAG  266
+
+Query  131  ACTGGTATTGTTGACGAATGCTGCTTTCGTTCTTGCGACCTGCGTCGTCTGGAAATGTAT  190
+            || || ||||| |||||||||||||| ||    || || ||| |  | ||||| ||||| 
+Sbjct  267  ACAGGCATTGTGGACGAATGCTGCTTCCGGAGCTGTGATCTGAGAAGGCTGGAGATGTAC  326
+
+Query  191  TGCGCTCCCCTGAAACCCGCTAAATCTGC  219
+            || || ||||| || || || || || ||
+Sbjct  327  TGTGCACCCCTAAAGCCTGCCAAGTCAGC  355
+
+
+>XM_033117214.1 PREDICTED: Rhinolophus ferrumequinum insulin like growth factor 
+1 (IGF1), transcript variant X1, mRNA
+Length=1172
+
+ Score = 130 bits (143),  Expect = 3e-25
+ Identities = 154/209 (74%), Gaps = 0/209 (0%)
+ Strand=Plus/Plus
+
+Query  11   GGTCCCGAAACTCTGTGCGGTGCTGAACTGGTTGACGCTCTGCAGTTTGTTTGCGGTGAC  70
+            || || || || || ||||| ||||| ||||| |||||||| ||||| || || || |||
+Sbjct  406  GGGCCGGAGACACTCTGCGGGGCTGAGCTGGTGGACGCTCTTCAGTTCGTGTGTGGAGAC  465
+
+Query  71   CGTGGTTTTTATTTTAACAAACCCACTGGTTATGGTTCTTCTTCTCGTCGTGCTCCCCAG  130
+            || || |||||||| ||||| ||||| || ||||| ||      |||  | || || |||
+Sbjct  466  CGGGGCTTTTATTTCAACAAGCCCACGGGGTATGGCTCCAGCAGTCGGAGGGCGCCTCAG  525
+
+Query  131  ACTGGTATTGTTGACGAATGCTGCTTTCGTTCTTGCGACCTGCGTCGTCTGGAAATGTAT  190
+            || || ||||| |||||||||||||| ||    || || ||| |  | ||||| ||||| 
+Sbjct  526  ACAGGCATTGTGGACGAATGCTGCTTCCGGAGCTGTGATCTGAGAAGGCTGGAGATGTAC  585
+
+Query  191  TGCGCTCCCCTGAAACCCGCTAAATCTGC  219
+            || || ||||| || || || || || ||
+Sbjct  586  TGTGCACCCCTAAAGCCTGCCAAGTCAGC  614
+
+
+>XM_032346584.1 PREDICTED: Mustela erminea insulin like growth factor 1 (IGF1), 
+transcript variant X5, mRNA
+Length=7083
+
+ Score = 130 bits (143),  Expect = 3e-25
+ Identities = 154/209 (74%), Gaps = 0/209 (0%)
+ Strand=Plus/Plus
+
+Query  11   GGTCCCGAAACTCTGTGCGGTGCTGAACTGGTTGACGCTCTGCAGTTTGTTTGCGGTGAC  70
+            || || || || || || || ||||||||||| || ||||| ||||| || || || |||
+Sbjct  187  GGACCAGAGACGCTCTGTGGGGCTGAACTGGTGGATGCTCTTCAGTTCGTGTGTGGAGAC  246
+
+Query  71   CGTGGTTTTTATTTTAACAAACCCACTGGTTATGGTTCTTCTTCTCGTCGTGCTCCCCAG  130
+             | ||||||||||| ||||| ||||| || ||||||||      |||  | || || |||
+Sbjct  247  AGGGGTTTTTATTTCAACAAGCCCACGGGGTATGGTTCAAGCAGTCGGAGGGCACCTCAG  306
+
+Query  131  ACTGGTATTGTTGACGAATGCTGCTTTCGTTCTTGCGACCTGCGTCGTCTGGAAATGTAT  190
+            || || ||||| ||||| |||||||| ||    || || ||| |  | || || ||||| 
+Sbjct  307  ACAGGCATTGTGGACGAGTGCTGCTTCCGGAGCTGTGATCTGAGGAGGCTAGAGATGTAC  366
+
+Query  191  TGCGCTCCCCTGAAACCCGCTAAATCTGC  219
+            ||||| ||||| || || || || |||||
+Sbjct  367  TGCGCACCCCTCAAGCCTGCCAAGTCTGC  395
+
+
+>XM_032346583.1 PREDICTED: Mustela erminea insulin like growth factor 1 (IGF1), 
+transcript variant X4, mRNA
+Length=7294
+
+ Score = 130 bits (143),  Expect = 3e-25
+ Identities = 154/209 (74%), Gaps = 0/209 (0%)
+ Strand=Plus/Plus
+
+Query  11   GGTCCCGAAACTCTGTGCGGTGCTGAACTGGTTGACGCTCTGCAGTTTGTTTGCGGTGAC  70
+            || || || || || || || ||||||||||| || ||||| ||||| || || || |||
+Sbjct  398  GGACCAGAGACGCTCTGTGGGGCTGAACTGGTGGATGCTCTTCAGTTCGTGTGTGGAGAC  457
+
+Query  71   CGTGGTTTTTATTTTAACAAACCCACTGGTTATGGTTCTTCTTCTCGTCGTGCTCCCCAG  130
+             | ||||||||||| ||||| ||||| || ||||||||      |||  | || || |||
+Sbjct  458  AGGGGTTTTTATTTCAACAAGCCCACGGGGTATGGTTCAAGCAGTCGGAGGGCACCTCAG  517
+
+Query  131  ACTGGTATTGTTGACGAATGCTGCTTTCGTTCTTGCGACCTGCGTCGTCTGGAAATGTAT  190
+            || || ||||| ||||| |||||||| ||    || || ||| |  | || || ||||| 
+Sbjct  518  ACAGGCATTGTGGACGAGTGCTGCTTCCGGAGCTGTGATCTGAGGAGGCTAGAGATGTAC  577
+
+Query  191  TGCGCTCCCCTGAAACCCGCTAAATCTGC  219
+            ||||| ||||| || || || || |||||
+Sbjct  578  TGCGCACCCCTCAAGCCTGCCAAGTCTGC  606
+
+
+>XM_032346582.1 PREDICTED: Mustela erminea insulin like growth factor 1 (IGF1), 
+transcript variant X3, mRNA
+Length=7348
+
+ Score = 130 bits (143),  Expect = 3e-25
+ Identities = 154/209 (74%), Gaps = 0/209 (0%)
+ Strand=Plus/Plus
+
+Query  11   GGTCCCGAAACTCTGTGCGGTGCTGAACTGGTTGACGCTCTGCAGTTTGTTTGCGGTGAC  70
+            || || || || || || || ||||||||||| || ||||| ||||| || || || |||
+Sbjct  400  GGACCAGAGACGCTCTGTGGGGCTGAACTGGTGGATGCTCTTCAGTTCGTGTGTGGAGAC  459
+
+Query  71   CGTGGTTTTTATTTTAACAAACCCACTGGTTATGGTTCTTCTTCTCGTCGTGCTCCCCAG  130
+             | ||||||||||| ||||| ||||| || ||||||||      |||  | || || |||
+Sbjct  460  AGGGGTTTTTATTTCAACAAGCCCACGGGGTATGGTTCAAGCAGTCGGAGGGCACCTCAG  519
+
+Query  131  ACTGGTATTGTTGACGAATGCTGCTTTCGTTCTTGCGACCTGCGTCGTCTGGAAATGTAT  190
+            || || ||||| ||||| |||||||| ||    || || ||| |  | || || ||||| 
+Sbjct  520  ACAGGCATTGTGGACGAGTGCTGCTTCCGGAGCTGTGATCTGAGGAGGCTAGAGATGTAC  579
+
+Query  191  TGCGCTCCCCTGAAACCCGCTAAATCTGC  219
+            ||||| ||||| || || || || |||||
+Sbjct  580  TGCGCACCCCTCAAGCCTGCCAAGTCTGC  608
+
+
+>XM_032346581.1 PREDICTED: Mustela erminea insulin like growth factor 1 (IGF1), 
+transcript variant X2, mRNA
+Length=960
+
+ Score = 130 bits (143),  Expect = 3e-25
+ Identities = 154/209 (74%), Gaps = 0/209 (0%)
+ Strand=Plus/Plus
+
+Query  11   GGTCCCGAAACTCTGTGCGGTGCTGAACTGGTTGACGCTCTGCAGTTTGTTTGCGGTGAC  70
+            || || || || || || || ||||||||||| || ||||| ||||| || || || |||
+Sbjct  216  GGACCAGAGACGCTCTGTGGGGCTGAACTGGTGGATGCTCTTCAGTTCGTGTGTGGAGAC  275
+
+Query  71   CGTGGTTTTTATTTTAACAAACCCACTGGTTATGGTTCTTCTTCTCGTCGTGCTCCCCAG  130
+             | ||||||||||| ||||| ||||| || ||||||||      |||  | || || |||
+Sbjct  276  AGGGGTTTTTATTTCAACAAGCCCACGGGGTATGGTTCAAGCAGTCGGAGGGCACCTCAG  335
+
+Query  131  ACTGGTATTGTTGACGAATGCTGCTTTCGTTCTTGCGACCTGCGTCGTCTGGAAATGTAT  190
+            || || ||||| ||||| |||||||| ||    || || ||| |  | || || ||||| 
+Sbjct  336  ACAGGCATTGTGGACGAGTGCTGCTTCCGGAGCTGTGATCTGAGGAGGCTAGAGATGTAC  395
+
+Query  191  TGCGCTCCCCTGAAACCCGCTAAATCTGC  219
+            ||||| ||||| || || || || |||||
+Sbjct  396  TGCGCACCCCTCAAGCCTGCCAAGTCTGC  424
+
+
+>XM_032346580.1 PREDICTED: Mustela erminea insulin like growth factor 1 (IGF1), 
+transcript variant X1, mRNA
+Length=1144
+
+ Score = 130 bits (143),  Expect = 3e-25
+ Identities = 154/209 (74%), Gaps = 0/209 (0%)
+ Strand=Plus/Plus
+
+Query  11   GGTCCCGAAACTCTGTGCGGTGCTGAACTGGTTGACGCTCTGCAGTTTGTTTGCGGTGAC  70
+            || || || || || || || ||||||||||| || ||||| ||||| || || || |||
+Sbjct  400  GGACCAGAGACGCTCTGTGGGGCTGAACTGGTGGATGCTCTTCAGTTCGTGTGTGGAGAC  459
+
+Query  71   CGTGGTTTTTATTTTAACAAACCCACTGGTTATGGTTCTTCTTCTCGTCGTGCTCCCCAG  130
+             | ||||||||||| ||||| ||||| || ||||||||      |||  | || || |||
+Sbjct  460  AGGGGTTTTTATTTCAACAAGCCCACGGGGTATGGTTCAAGCAGTCGGAGGGCACCTCAG  519
+
+Query  131  ACTGGTATTGTTGACGAATGCTGCTTTCGTTCTTGCGACCTGCGTCGTCTGGAAATGTAT  190
+            || || ||||| ||||| |||||||| ||    || || ||| |  | || || ||||| 
+Sbjct  520  ACAGGCATTGTGGACGAGTGCTGCTTCCGGAGCTGTGATCTGAGGAGGCTAGAGATGTAC  579
+
+Query  191  TGCGCTCCCCTGAAACCCGCTAAATCTGC  219
+            ||||| ||||| || || || || |||||
+Sbjct  580  TGCGCACCCCTCAAGCCTGCCAAGTCTGC  608
+
+
+>XM_023716928.1 PREDICTED: Octodon degus insulin like growth factor 1 (Igf1), 
+transcript variant X5, mRNA
+Length=2643
+
+ Score = 130 bits (143),  Expect = 3e-25
+ Identities = 154/209 (74%), Gaps = 0/209 (0%)
+ Strand=Plus/Plus
+
+Query  11   GGTCCCGAAACTCTGTGCGGTGCTGAACTGGTTGACGCTCTGCAGTTTGTTTGCGGTGAC  70
+            || || || || |||||||| ||||| ||||||||||| || |||||||| || || |||
+Sbjct  158  GGACCAGAGACACTGTGCGGCGCTGAGCTGGTTGACGCCCTCCAGTTTGTGTGTGGAGAC  217
+
+Query  71   CGTGGTTTTTATTTTAACAAACCCACTGGTTATGGTTCTTCTTCTCGTCGTGCTCCCCAG  130
+             | || ||||| || ||||| ||||| || || || ||      |||  | || || |||
+Sbjct  218  AGGGGCTTTTACTTCAACAAGCCCACGGGGTACGGCTCCAGCAGTCGGAGGGCGCCGCAG  277
+
+Query  131  ACTGGTATTGTTGACGAATGCTGCTTTCGTTCTTGCGACCTGCGTCGTCTGGAAATGTAT  190
+            || || || || ||||| |||||||| ||    |||||||||||  | ||||| ||||| 
+Sbjct  278  ACAGGCATCGTGGACGAGTGCTGCTTCCGGAGCTGCGACCTGCGGAGGCTGGAGATGTAC  337
+
+Query  191  TGCGCTCCCCTGAAACCCGCTAAATCTGC  219
+            || || ||||| || || || || || ||
+Sbjct  338  TGTGCGCCCCTCAAGCCTGCCAAGTCGGC  366
+
+
+>XM_023716923.1 PREDICTED: Octodon degus insulin like growth factor 1 (Igf1), 
+transcript variant X4, mRNA
+Length=2992
+
+ Score = 130 bits (143),  Expect = 3e-25
+ Identities = 154/209 (74%), Gaps = 0/209 (0%)
+ Strand=Plus/Plus
+
+Query  11   GGTCCCGAAACTCTGTGCGGTGCTGAACTGGTTGACGCTCTGCAGTTTGTTTGCGGTGAC  70
+            || || || || |||||||| ||||| ||||||||||| || |||||||| || || |||
+Sbjct  507  GGACCAGAGACACTGTGCGGCGCTGAGCTGGTTGACGCCCTCCAGTTTGTGTGTGGAGAC  566
+
+Query  71   CGTGGTTTTTATTTTAACAAACCCACTGGTTATGGTTCTTCTTCTCGTCGTGCTCCCCAG  130
+             | || ||||| || ||||| ||||| || || || ||      |||  | || || |||
+Sbjct  567  AGGGGCTTTTACTTCAACAAGCCCACGGGGTACGGCTCCAGCAGTCGGAGGGCGCCGCAG  626
+
+Query  131  ACTGGTATTGTTGACGAATGCTGCTTTCGTTCTTGCGACCTGCGTCGTCTGGAAATGTAT  190
+            || || || || ||||| |||||||| ||    |||||||||||  | ||||| ||||| 
+Sbjct  627  ACAGGCATCGTGGACGAGTGCTGCTTCCGGAGCTGCGACCTGCGGAGGCTGGAGATGTAC  686
+
+Query  191  TGCGCTCCCCTGAAACCCGCTAAATCTGC  219
+            || || ||||| || || || || || ||
+Sbjct  687  TGTGCGCCCCTCAAGCCTGCCAAGTCGGC  715
+
+
+>XM_023716921.1 PREDICTED: Octodon degus insulin like growth factor 1 (Igf1), 
+transcript variant X3, mRNA
+Length=2655
+
+ Score = 130 bits (143),  Expect = 3e-25
+ Identities = 154/209 (74%), Gaps = 0/209 (0%)
+ Strand=Plus/Plus
+
+Query  11   GGTCCCGAAACTCTGTGCGGTGCTGAACTGGTTGACGCTCTGCAGTTTGTTTGCGGTGAC  70
+            || || || || |||||||| ||||| ||||||||||| || |||||||| || || |||
+Sbjct  170  GGACCAGAGACACTGTGCGGCGCTGAGCTGGTTGACGCCCTCCAGTTTGTGTGTGGAGAC  229
+
+Query  71   CGTGGTTTTTATTTTAACAAACCCACTGGTTATGGTTCTTCTTCTCGTCGTGCTCCCCAG  130
+             | || ||||| || ||||| ||||| || || || ||      |||  | || || |||
+Sbjct  230  AGGGGCTTTTACTTCAACAAGCCCACGGGGTACGGCTCCAGCAGTCGGAGGGCGCCGCAG  289
+
+Query  131  ACTGGTATTGTTGACGAATGCTGCTTTCGTTCTTGCGACCTGCGTCGTCTGGAAATGTAT  190
+            || || || || ||||| |||||||| ||    |||||||||||  | ||||| ||||| 
+Sbjct  290  ACAGGCATCGTGGACGAGTGCTGCTTCCGGAGCTGCGACCTGCGGAGGCTGGAGATGTAC  349
+
+Query  191  TGCGCTCCCCTGAAACCCGCTAAATCTGC  219
+            || || ||||| || || || || || ||
+Sbjct  350  TGTGCGCCCCTCAAGCCTGCCAAGTCGGC  378
+
+
+>XM_047741234.1 PREDICTED: Lutra lutra insulin like growth factor 1 (IGF1), transcript 
+variant X6, mRNA
+Length=3845
+
+ Score = 130 bits (143),  Expect = 3e-25
+ Identities = 151/203 (74%), Gaps = 2/203 (1%)
+ Strand=Plus/Plus
+
+Query  17   GAAACTCTGTGCGGTGCTGAACTGGTTGACGCTCTGCAGTTTGTTTGCGGTGACCGTGGT  76
+            || |||||||| ||  |||||||||| || ||||| ||||| || || || ||| | |||
+Sbjct  243  GACACTCTGTGGGG--CTGAACTGGTGGATGCTCTTCAGTTCGTGTGTGGAGACAGGGGT  300
+
+Query  77   TTTTATTTTAACAAACCCACTGGTTATGGTTCTTCTTCTCGTCGTGCTCCCCAGACTGGT  136
+            |||||||| ||||| ||||| || ||||||||      |||  | || || ||||| || 
+Sbjct  301  TTTTATTTCAACAAGCCCACGGGGTATGGTTCAAGCAGTCGGAGGGCACCTCAGACAGGC  360
+
+Query  137  ATTGTTGACGAATGCTGCTTTCGTTCTTGCGACCTGCGTCGTCTGGAAATGTATTGCGCT  196
+            ||||| |||||||||||||| ||    || || ||| |  | || || ||||| ||||| 
+Sbjct  361  ATTGTGGACGAATGCTGCTTCCGGAGCTGTGATCTGAGGAGGCTAGAGATGTACTGCGCA  420
+
+Query  197  CCCCTGAAACCCGCTAAATCTGC  219
+            ||||| || || || || || ||
+Sbjct  421  CCCCTCAAGCCTGCCAAGTCCGC  443
+
+
+>XM_047741233.1 PREDICTED: Lutra lutra insulin like growth factor 1 (IGF1), transcript 
+variant X5, mRNA
+Length=7073
+
+ Score = 130 bits (143),  Expect = 3e-25
+ Identities = 151/203 (74%), Gaps = 2/203 (1%)
+ Strand=Plus/Plus
+
+Query  17   GAAACTCTGTGCGGTGCTGAACTGGTTGACGCTCTGCAGTTTGTTTGCGGTGACCGTGGT  76
+            || |||||||| ||  |||||||||| || ||||| ||||| || || || ||| | |||
+Sbjct  192  GACACTCTGTGGGG--CTGAACTGGTGGATGCTCTTCAGTTCGTGTGTGGAGACAGGGGT  249
+
+Query  77   TTTTATTTTAACAAACCCACTGGTTATGGTTCTTCTTCTCGTCGTGCTCCCCAGACTGGT  136
+            |||||||| ||||| ||||| || ||||||||      |||  | || || ||||| || 
+Sbjct  250  TTTTATTTCAACAAGCCCACGGGGTATGGTTCAAGCAGTCGGAGGGCACCTCAGACAGGC  309
+
+Query  137  ATTGTTGACGAATGCTGCTTTCGTTCTTGCGACCTGCGTCGTCTGGAAATGTATTGCGCT  196
+            ||||| |||||||||||||| ||    || || ||| |  | || || ||||| ||||| 
+Sbjct  310  ATTGTGGACGAATGCTGCTTCCGGAGCTGTGATCTGAGGAGGCTAGAGATGTACTGCGCA  369
+
+Query  197  CCCCTGAAACCCGCTAAATCTGC  219
+            ||||| || || || || || ||
+Sbjct  370  CCCCTCAAGCCTGCCAAGTCCGC  392
+
+
+>XM_047741231.1 PREDICTED: Lutra lutra insulin like growth factor 1 (IGF1), transcript 
+variant X4, mRNA
+Length=7299
+
+ Score = 130 bits (143),  Expect = 3e-25
+ Identities = 151/203 (74%), Gaps = 2/203 (1%)
+ Strand=Plus/Plus
+
+Query  17   GAAACTCTGTGCGGTGCTGAACTGGTTGACGCTCTGCAGTTTGTTTGCGGTGACCGTGGT  76
+            || |||||||| ||  |||||||||| || ||||| ||||| || || || ||| | |||
+Sbjct  418  GACACTCTGTGGGG--CTGAACTGGTGGATGCTCTTCAGTTCGTGTGTGGAGACAGGGGT  475
+
+Query  77   TTTTATTTTAACAAACCCACTGGTTATGGTTCTTCTTCTCGTCGTGCTCCCCAGACTGGT  136
+            |||||||| ||||| ||||| || ||||||||      |||  | || || ||||| || 
+Sbjct  476  TTTTATTTCAACAAGCCCACGGGGTATGGTTCAAGCAGTCGGAGGGCACCTCAGACAGGC  535
+
+Query  137  ATTGTTGACGAATGCTGCTTTCGTTCTTGCGACCTGCGTCGTCTGGAAATGTATTGCGCT  196
+            ||||| |||||||||||||| ||    || || ||| |  | || || ||||| ||||| 
+Sbjct  536  ATTGTGGACGAATGCTGCTTCCGGAGCTGTGATCTGAGGAGGCTAGAGATGTACTGCGCA  595
+
+Query  197  CCCCTGAAACCCGCTAAATCTGC  219
+            ||||| || || || || || ||
+Sbjct  596  CCCCTCAAGCCTGCCAAGTCCGC  618
+
+
+>XM_047741230.1 PREDICTED: Lutra lutra insulin like growth factor 1 (IGF1), transcript 
+variant X3, mRNA
+Length=7351
+
+ Score = 130 bits (143),  Expect = 3e-25
+ Identities = 151/203 (74%), Gaps = 2/203 (1%)
+ Strand=Plus/Plus
+
+Query  17   GAAACTCTGTGCGGTGCTGAACTGGTTGACGCTCTGCAGTTTGTTTGCGGTGACCGTGGT  76
+            || |||||||| ||  |||||||||| || ||||| ||||| || || || ||| | |||
+Sbjct  418  GACACTCTGTGGGG--CTGAACTGGTGGATGCTCTTCAGTTCGTGTGTGGAGACAGGGGT  475
+
+Query  77   TTTTATTTTAACAAACCCACTGGTTATGGTTCTTCTTCTCGTCGTGCTCCCCAGACTGGT  136
+            |||||||| ||||| ||||| || ||||||||      |||  | || || ||||| || 
+Sbjct  476  TTTTATTTCAACAAGCCCACGGGGTATGGTTCAAGCAGTCGGAGGGCACCTCAGACAGGC  535
+
+Query  137  ATTGTTGACGAATGCTGCTTTCGTTCTTGCGACCTGCGTCGTCTGGAAATGTATTGCGCT  196
+            ||||| |||||||||||||| ||    || || ||| |  | || || ||||| ||||| 
+Sbjct  536  ATTGTGGACGAATGCTGCTTCCGGAGCTGTGATCTGAGGAGGCTAGAGATGTACTGCGCA  595
+
+Query  197  CCCCTGAAACCCGCTAAATCTGC  219
+            ||||| || || || || || ||
+Sbjct  596  CCCCTCAAGCCTGCCAAGTCCGC  618
+
+
+>XM_047741229.1 PREDICTED: Lutra lutra insulin like growth factor 1 (IGF1), transcript 
+variant X2, mRNA
+Length=3794
+
+ Score = 130 bits (143),  Expect = 3e-25
+ Identities = 151/203 (74%), Gaps = 2/203 (1%)
+ Strand=Plus/Plus
+
+Query  17   GAAACTCTGTGCGGTGCTGAACTGGTTGACGCTCTGCAGTTTGTTTGCGGTGACCGTGGT  76
+            || |||||||| ||  |||||||||| || ||||| ||||| || || || ||| | |||
+Sbjct  192  GACACTCTGTGGGG--CTGAACTGGTGGATGCTCTTCAGTTCGTGTGTGGAGACAGGGGT  249
+
+Query  77   TTTTATTTTAACAAACCCACTGGTTATGGTTCTTCTTCTCGTCGTGCTCCCCAGACTGGT  136
+            |||||||| ||||| ||||| || ||||||||      |||  | || || ||||| || 
+Sbjct  250  TTTTATTTCAACAAGCCCACGGGGTATGGTTCAAGCAGTCGGAGGGCACCTCAGACAGGC  309
+
+Query  137  ATTGTTGACGAATGCTGCTTTCGTTCTTGCGACCTGCGTCGTCTGGAAATGTATTGCGCT  196
+            ||||| |||||||||||||| ||    || || ||| |  | || || ||||| ||||| 
+Sbjct  310  ATTGTGGACGAATGCTGCTTCCGGAGCTGTGATCTGAGGAGGCTAGAGATGTACTGCGCA  369
+
+Query  197  CCCCTGAAACCCGCTAAATCTGC  219
+            ||||| || || || || || ||
+Sbjct  370  CCCCTCAAGCCTGCCAAGTCCGC  392
+
+
+>XM_047741228.1 PREDICTED: Lutra lutra insulin like growth factor 1 (IGF1), transcript 
+variant X1, mRNA
+Length=7386
+
+ Score = 130 bits (143),  Expect = 3e-25
+ Identities = 151/203 (74%), Gaps = 2/203 (1%)
+ Strand=Plus/Plus
+
+Query  17   GAAACTCTGTGCGGTGCTGAACTGGTTGACGCTCTGCAGTTTGTTTGCGGTGACCGTGGT  76
+            || |||||||| ||  |||||||||| || ||||| ||||| || || || ||| | |||
+Sbjct  418  GACACTCTGTGGGG--CTGAACTGGTGGATGCTCTTCAGTTCGTGTGTGGAGACAGGGGT  475
+
+Query  77   TTTTATTTTAACAAACCCACTGGTTATGGTTCTTCTTCTCGTCGTGCTCCCCAGACTGGT  136
+            |||||||| ||||| ||||| || ||||||||      |||  | || || ||||| || 
+Sbjct  476  TTTTATTTCAACAAGCCCACGGGGTATGGTTCAAGCAGTCGGAGGGCACCTCAGACAGGC  535
+
+Query  137  ATTGTTGACGAATGCTGCTTTCGTTCTTGCGACCTGCGTCGTCTGGAAATGTATTGCGCT  196
+            ||||| |||||||||||||| ||    || || ||| |  | || || ||||| ||||| 
+Sbjct  536  ATTGTGGACGAATGCTGCTTCCGGAGCTGTGATCTGAGGAGGCTAGAGATGTACTGCGCA  595
+
+Query  197  CCCCTGAAACCCGCTAAATCTGC  219
+            ||||| || || || || || ||
+Sbjct  596  CCCCTCAAGCCTGCCAAGTCCGC  618
+
+
+>XM_004742995.3 PREDICTED: Mustela putorius furo insulin like growth factor 1 
+(IGF1), transcript variant X3, mRNA
+Length=7270
+
+ Score = 130 bits (143),  Expect = 3e-25
+ Identities = 154/209 (74%), Gaps = 0/209 (0%)
+ Strand=Plus/Plus
+
+Query  11   GGTCCCGAAACTCTGTGCGGTGCTGAACTGGTTGACGCTCTGCAGTTTGTTTGCGGTGAC  70
+            || || || || || || || ||||||||||| || ||||| ||||| || || || |||
+Sbjct  395  GGACCAGAGACGCTCTGTGGGGCTGAACTGGTGGATGCTCTTCAGTTCGTGTGTGGAGAC  454
+
+Query  71   CGTGGTTTTTATTTTAACAAACCCACTGGTTATGGTTCTTCTTCTCGTCGTGCTCCCCAG  130
+             | ||||||||||| ||||| ||||| || ||||||||      |||  | || || |||
+Sbjct  455  AGGGGTTTTTATTTCAACAAGCCCACGGGGTATGGTTCAAGCAGTCGGAGGGCACCTCAG  514
+
+Query  131  ACTGGTATTGTTGACGAATGCTGCTTTCGTTCTTGCGACCTGCGTCGTCTGGAAATGTAT  190
+            || || ||||| ||||| |||||||| ||    || || ||| |  | || || ||||| 
+Sbjct  515  ACAGGCATTGTGGACGAGTGCTGCTTCCGGAGCTGTGATCTGAGGAGGCTAGAGATGTAC  574
+
+Query  191  TGCGCTCCCCTGAAACCCGCTAAATCTGC  219
+            ||||| ||||| || || || || |||||
+Sbjct  575  TGCGCACCCCTCAAGCCTGCCAAGTCTGC  603
+
+
+>XM_045084780.1 PREDICTED: Mustela putorius furo insulin like growth factor 1 
+(IGF1), transcript variant X2, mRNA
+Length=7114
+
+ Score = 130 bits (143),  Expect = 3e-25
+ Identities = 154/209 (74%), Gaps = 0/209 (0%)
+ Strand=Plus/Plus
+
+Query  11   GGTCCCGAAACTCTGTGCGGTGCTGAACTGGTTGACGCTCTGCAGTTTGTTTGCGGTGAC  70
+            || || || || || || || ||||||||||| || ||||| ||||| || || || |||
+Sbjct  187  GGACCAGAGACGCTCTGTGGGGCTGAACTGGTGGATGCTCTTCAGTTCGTGTGTGGAGAC  246
+
+Query  71   CGTGGTTTTTATTTTAACAAACCCACTGGTTATGGTTCTTCTTCTCGTCGTGCTCCCCAG  130
+             | ||||||||||| ||||| ||||| || ||||||||      |||  | || || |||
+Sbjct  247  AGGGGTTTTTATTTCAACAAGCCCACGGGGTATGGTTCAAGCAGTCGGAGGGCACCTCAG  306
+
+Query  131  ACTGGTATTGTTGACGAATGCTGCTTTCGTTCTTGCGACCTGCGTCGTCTGGAAATGTAT  190
+            || || ||||| ||||| |||||||| ||    || || ||| |  | || || ||||| 
+Sbjct  307  ACAGGCATTGTGGACGAGTGCTGCTTCCGGAGCTGTGATCTGAGGAGGCTAGAGATGTAC  366
+
+Query  191  TGCGCTCCCCTGAAACCCGCTAAATCTGC  219
+            ||||| ||||| || || || || |||||
+Sbjct  367  TGCGCACCCCTCAAGCCTGCCAAGTCTGC  395
+
+
+>XM_045084779.1 PREDICTED: Mustela putorius furo insulin like growth factor 1 
+(IGF1), transcript variant X1, mRNA
+Length=7327
+
+ Score = 130 bits (143),  Expect = 3e-25
+ Identities = 154/209 (74%), Gaps = 0/209 (0%)
+ Strand=Plus/Plus
+
+Query  11   GGTCCCGAAACTCTGTGCGGTGCTGAACTGGTTGACGCTCTGCAGTTTGTTTGCGGTGAC  70
+            || || || || || || || ||||||||||| || ||||| ||||| || || || |||
+Sbjct  400  GGACCAGAGACGCTCTGTGGGGCTGAACTGGTGGATGCTCTTCAGTTCGTGTGTGGAGAC  459
+
+Query  71   CGTGGTTTTTATTTTAACAAACCCACTGGTTATGGTTCTTCTTCTCGTCGTGCTCCCCAG  130
+             | ||||||||||| ||||| ||||| || ||||||||      |||  | || || |||
+Sbjct  460  AGGGGTTTTTATTTCAACAAGCCCACGGGGTATGGTTCAAGCAGTCGGAGGGCACCTCAG  519
+
+Query  131  ACTGGTATTGTTGACGAATGCTGCTTTCGTTCTTGCGACCTGCGTCGTCTGGAAATGTAT  190
+            || || ||||| ||||| |||||||| ||    || || ||| |  | || || ||||| 
+Sbjct  520  ACAGGCATTGTGGACGAGTGCTGCTTCCGGAGCTGTGATCTGAGGAGGCTAGAGATGTAC  579
+
+Query  191  TGCGCTCCCCTGAAACCCGCTAAATCTGC  219
+            ||||| ||||| || || || || |||||
+Sbjct  580  TGCGCACCCCTCAAGCCTGCCAAGTCTGC  608
+
+
+  Database: Nucleotide collection (nt)
+    Posted date:  Jun 6, 2023  6:13 AM
+  Number of letters in database: 1,181,222,551,416
+  Number of sequences in database:  94,194,025
+
+Lambda      K        H
+   0.634    0.408    0.912 
+Gapped
+Lambda      K        H
+   0.625    0.410    0.780 
+Matrix: blastn matrix:2 -3
+Gap Penalties: Existence: 5, Extension: 2
+Number of Sequences: 94194025
+Number of Hits to DB: 15464184
+Number of extensions: 22040
+Number of successful extensions: 22040
+Number of sequences better than 10: 3
+Number of HSP's better than 10 without gapping: 0
+Number of HSP's gapped: 22040
+Number of HSP's successfully gapped: 6
+Length of query: 229
+Length of database: 1181222551416
+Length adjustment: 39
+Effective length of query: 190
+Effective length of database: 1177548984441
+Effective search space: 223734307043790
+Effective search space used: 223734307043790
+A: 0
+X1: 22 (20.1 bits)
+X2: 33 (29.8 bits)
+X3: 110 (99.2 bits)
+S1: 28 (26.5 bits)
+S2: 48 (44.6 bits)
+
+

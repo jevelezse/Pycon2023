@@ -1,0 +1,60 @@
+LOCUS       AA616855                 278 bp    mRNA    linear   EST 07-OCT-1997
+DEFINITION  vi20b03.r1 Barstead mouse proximal colon MPLRB6 Mus musculus cDNA
+            clone IMAGE:904301 5' similar to gb:J03909
+            GAMMA-INTERFERON-INDUCIBLE PROTEIN IP-30 PRECURSOR (HUMAN), mRNA
+            sequence.
+ACCESSION   AA616855
+VERSION     AA616855.1
+DBLINK      BioSample: SAMN00155516
+KEYWORDS    EST.
+SOURCE      Mus musculus (house mouse)
+  ORGANISM  Mus musculus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Glires; Rodentia; Myomorpha;
+            Muroidea; Muridae; Murinae; Mus; Mus.
+REFERENCE   1  (bases 1 to 278)
+  AUTHORS   Marra,M., Hillier,L., Allen,M., Bowles,M., Dietrich,N., Dubuque,T.,
+            Geisel,S., Kucaba,T., Lacy,M., Le,M., Martin,J., Morris,M.,
+            Schellenberg,K., Steptoe,M., Tan,F., Underwood,K., Moore,B.,
+            Theising,B., Wylie,T., Lennon,G., Soares,B., Wilson,R. and
+            Waterston,R.
+  TITLE     The WashU-HHMI Mouse EST Project
+  JOURNAL   Unpublished
+COMMENT     Contact: Marra M/Mouse EST Project
+            WashU-HHMI Mouse EST Project
+            Washington University School of MedicineP
+            4444 Forest Park Parkway, Box 8501, St. Louis, MO 63108
+            Tel: 314 286 1800
+            Fax: 314 286 1810
+            Email: mouseest@watson.wustl.edu
+            This clone is available royalty-free through LLNL ; contact the
+            IMAGE Consortium (info@image.llnl.gov) for further information.
+            MGI:524965
+            Seq primer: -28m13 rev2 ET from Amersham
+            High quality sequence stop: 163.
+FEATURES             Location/Qualifiers
+     source          1..278
+                     /organism="Mus musculus"
+                     /mol_type="mRNA"
+                     /strain="FVB/N"
+                     /db_xref="taxon:10090"
+                     /clone="IMAGE:904301"
+                     /clone_lib="SAMN00155516 Barstead mouse proximal colon
+                     MPLRB6"
+                     /dev_stage="7 day juvenile"
+                     /lab_host="DH10B"
+                     /note="Vector: pT7T3D-PacI; Site_1: EcoRI; Site_2: NotI;
+                     1st strand cDNA was primed with a Not I - oligo(dT) primer
+                     [5'
+                     TGTTACGAATCTGAAGTGGGAGCGGCCGCCCTTTTTTTTTTTTTTTTTTTTTTTTT
+                     3']; double-stranded cDNA was ligated to Eco RI adaptors
+                     [AATTCGGATCCTTG], digested with Not I and cloned into the
+                     Not I and Eco RI sites of the modified pT7T3 vector.
+                     Library constructed by Bob Barstead."
+ORIGIN
+        1 attcggatcc ttcgagagta tcatggagtg cgccacagga aaacggggta cacagctcat
+       61 gcatgagaat gcccagctca cagatgccct acacccaccc cacgagtatg tgccctgggt
+      121 gctggtcaat gagaaacctt tgaaggaccc cagcgagctc ctgagcatag tctgtcagct
+      181 gtaccaggga acggagaagc cagacatctg ctcctccatt gccgactccc ccaggaaggt
+      241 ctgctataag taaaggcata acctcaaact cgtcccag
+//

@@ -1,0 +1,62 @@
+LOCUS       W41283                   447 bp    mRNA    linear   EST 11-SEP-1996
+DEFINITION  mc44b08.r1 Soares mouse p3NMF19.5 Mus musculus cDNA clone
+            IMAGE:351351 5', mRNA sequence.
+ACCESSION   W41283
+VERSION     W41283.1
+DBLINK      BioSample: SAMN00155042
+KEYWORDS    EST.
+SOURCE      Mus musculus (house mouse)
+  ORGANISM  Mus musculus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Glires; Rodentia; Myomorpha;
+            Muroidea; Muridae; Murinae; Mus; Mus.
+REFERENCE   1  (bases 1 to 447)
+  AUTHORS   Marra,M., Hillier,L., Allen,M., Bowles,M., Dietrich,N., Dubuque,T.,
+            Geisel,S., Kucaba,T., Lacy,M., Le,M., Martin,J., Morris,M.,
+            Schellenberg,K., Steptoe,M., Tan,F., Underwood,K., Moore,B.,
+            Theising,B., Wylie,T., Lennon,G., Soares,B., Wilson,R. and
+            Waterston,R.
+  TITLE     The WashU-HHMI Mouse EST Project
+  JOURNAL   Unpublished
+COMMENT     Contact: Marra M/Mouse EST Project
+            WashU-HHMI Mouse EST Project
+            Washington University School of MedicineP
+            4444 Forest Park Parkway, Box 8501, St. Louis, MO 63108
+            Tel: 314 286 1800
+            Fax: 314 286 1810
+            Email: mouseest@watson.wustl.edu
+            This clone is available royalty-free through LLNL ; contact the
+            IMAGE Consortium (info@image.llnl.gov) for further information.
+            MGI:223151
+            Seq primer: ETPrimer
+            High quality sequence stop: 435.
+FEATURES             Location/Qualifiers
+     source          1..447
+                     /organism="Mus musculus"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:10090"
+                     /clone="IMAGE:351351"
+                     /clone_lib="SAMN00155042 Soares mouse p3NMF19.5"
+                     /dev_stage="19.5 dpc total fetus"
+                     /lab_host="DH10B (ampicillin resistant)"
+                     /note="Vector: pT7T3D (Pharmacia) with a modified
+                     polylinker; Site_1: Not I; Site_2: Eco RI; 1st strand cDNA
+                     was primed with a Not I - oligo(dT) primer [5'
+                     TGTTACCAATCTGAAGTGGGAGCGGCCGCATTTTTTTTTTTTTTTTTTTT 3'],
+                     double-stranded cDNA was size selected, ligated to Eco RI
+                     adapters (Pharmacia), digested with Not I and cloned into
+                     the Not I and Eco RI sites of a modified pT7T3 vector
+                     (Pharmacia). Library went through one round of
+                     normalization to a Cot = 5. Library constructed by Bento
+                     Soares and M.Fatima Bonaldo. RNA was kindly provided by Dr.
+                     Minoru Ko (Wayne State University)."
+ORIGIN
+        1 ctgtcagtga agagatttta cattgggaca gttgtaggaa gtacgtctct agcatactgc
+       61 acggcttcat ggttcctgct tgggcagaat ctttcactta cagtaagact cgacctttgt
+      121 gaggcaacac taaccatttg ccctaagatt tttttttagc aaagtttatt atttccatat
+      181 atcaaatggg ggtaattatg ctttgtgaag tagggattaa atgaagggaa aactacagag
+      241 gcggctgcga gaaggatgag tgtgcgcaca cctgtcagta aacagttggt caaccgtagg
+      301 ancaggacca aacgcctttg ttaaataaag aatcctgcag gtgaaggttt tttagtcagt
+      361 tagtgaactg aagaggtgag gctcagagtt ttacctttac tttacttgag gtgagtttgt
+      421 taacaaacaa acacaacaaa aaccttt
+//
