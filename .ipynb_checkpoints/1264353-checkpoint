@@ -1,0 +1,59 @@
+LOCUS       N92044                   436 bp    mRNA    linear   EST 04-APR-1996
+DEFINITION  za23b06.r1 Soares fetal liver spleen 1NFLS Homo sapiens cDNA clone
+            IMAGE:293363 5', mRNA sequence.
+ACCESSION   N92044
+VERSION     N92044.1
+DBLINK      BioSample: SAMN00154876
+KEYWORDS    EST.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 436)
+  AUTHORS   Hillier,L., Clark,N., Dubuque,T., Elliston,K., Hawkins,M.,
+            Holman,M., Hultman,M., Kucaba,T., Le,M., Lennon,G., Marra,M.,
+            Parsons,J., Rifkin,L., Rohlfing,T., Soares,M., Tan,F., Trevaskis,E.,
+            Waterston,R., Williamson,A., Wohldmann,P. and Wilson,R.
+  TITLE     The WashU-Merck EST Project
+  JOURNAL   Unpublished
+COMMENT     Contact: Wilson RK
+            Washington University School of Medicine
+            4444 Forest Park Parkway, Box 8501, St. Louis, MO 63108
+            Tel: 314 286 1800
+            Fax: 314 286 1810
+            Email: est@watson.wustl.edu
+            This clone is available royalty-free through LLNL ; contact the
+            IMAGE Consortium (info@image.llnl.gov) for further information.
+            Seq primer: mob.REGA+ET
+            High quality sequence stop: 369.
+FEATURES             Location/Qualifiers
+     source          1..436
+                     /organism="Homo sapiens"
+                     /mol_type="mRNA"
+                     /db_xref="GDB:3801140"
+                     /db_xref="taxon:9606"
+                     /clone="IMAGE:293363"
+                     /sex="male"
+                     /clone_lib="SAMN00154876 Soares fetal liver spleen 1NFLS"
+                     /dev_stage="20 week-post conception fetus"
+                     /lab_host="DH10B (ampicillin resistant)"
+                     /note="Organ: Liver and Spleen; Vector: pT7T3D (Pharmacia)
+                     with a modified polylinker; Site_1: Pac I; Site_2: Eco RI;
+                     1st strand cDNA was primed with a Pac I - oligo(dT) primer
+                     [5' AACTGGAAGAATTAATTAAAGATCTTTTTTTTTTTTTTTTTTT 3'],
+                     double-stranded cDNA was ligated to Eco RI adaptors
+                     (Pharmacia), digested with Pac I and cloned into the Pac I
+                     and Eco RI sites of the modified pT7T3 vector. Library went
+                     through one round of normalization. Library constructed by
+                     Bento Soares and M.Fatima Bonaldo."
+ORIGIN
+        1 cagngaacta ctggctacct tgacaagctg ggtaaatagt tatcattctg ggtaactggt
+       61 tgaaactctg acttttggac aagtaattcc tggggttctg tctttggtag catcaccagg
+      121 gatatttggg tgggacagac agaagacaca cagctgcctg ttctctcctg cccatcatgt
+      181 ttcggcccac tagatgaagc tgtactcagc aatttaggga atgtaaccct tctcagaact
+      241 ggccattttc aggggaagct tgggagagca atagtatggt gagcccctta gagatgagcg
+      301 cctactcctt cttggcgaat gctgccttca gatgcttacc aagtggtcac tgcatctagt
+      361 aagattatat ttccagtaca cttccttagg gcagaaacac catcctatca ggtttggtca
+      421 gtcccttctt catgaa
+//
